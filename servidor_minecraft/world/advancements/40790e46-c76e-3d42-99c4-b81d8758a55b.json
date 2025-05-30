@@ -49,13 +49,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-05-30 22:34:01 +0000",
+      "minecraft:taiga": "2025-05-30 22:31:54 +0000",
       "minecraft:frozen_river": "2025-05-30 21:19:35 +0000",
       "minecraft:beach": "2025-05-30 21:44:26 +0000",
       "minecraft:river": "2025-05-30 21:51:04 +0000",
       "minecraft:snowy_plains": "2025-05-30 21:17:11 +0000",
       "minecraft:snowy_taiga": "2025-05-30 21:25:47 +0000",
+      "minecraft:cold_ocean": "2025-05-30 22:25:47 +0000",
       "minecraft:forest": "2025-05-30 22:14:53 +0000",
+      "minecraft:lush_caves": "2025-05-30 22:34:12 +0000",
       "minecraft:snowy_beach": "2025-05-30 21:19:17 +0000",
+      "minecraft:meadow": "2025-05-30 22:18:01 +0000",
       "minecraft:plains": "2025-05-30 21:54:59 +0000"
     },
     "done": false
@@ -123,6 +128,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_stool": {
     "criteria": {
       "has_planks": "2025-05-30 21:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-30 22:29:35 +0000"
     },
     "done": true
   },
@@ -282,6 +293,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_trampoline": {
     "criteria": {
       "has_string": "2025-05-30 22:05:29 +0000"
@@ -373,6 +390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-30 21:44:54 +0000"
@@ -421,6 +444,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-05-30 22:17:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-30 21:29:25 +0000"
@@ -436,6 +465,12 @@
   "handcrafted:recipes/misc/oak_table": {
     "criteria": {
       "has_oak_table": "2025-05-30 21:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
     },
     "done": true
   },
@@ -523,6 +558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-05-30 21:32:01 +0000"
@@ -538,6 +579,12 @@
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-05-30 21:49:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
     },
     "done": true
   },
@@ -631,6 +678,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-30 22:05:29 +0000"
@@ -661,6 +714,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-05-30 22:25:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-30 21:44:54 +0000"
@@ -682,6 +741,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2025-05-30 21:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
     },
     "done": true
   },
@@ -746,6 +811,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-05-30 22:25:24 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/silverfish_trophy": {
     "criteria": {
       "has_silverfish_trophy": "2025-05-30 21:29:25 +0000"
@@ -755,6 +826,12 @@
   "handcrafted:recipes/misc/dark_oak_nightstand": {
     "criteria": {
       "has_dark_oak_nightstand": "2025-05-30 21:44:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-05-30 22:25:24 +0000"
     },
     "done": true
   },
@@ -848,6 +925,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-30 22:25:24 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bear_trophy": {
     "criteria": {
       "has_bear_trophy": "2025-05-30 21:29:25 +0000"
@@ -935,6 +1018,12 @@
   "portablemobs:recipes/misc/basic_capture_cell": {
     "criteria": {
       "recipe_condition": "2025-05-30 21:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
     },
     "done": true
   },
@@ -1044,6 +1133,12 @@
   "vinery:recipes/campfire": {
     "criteria": {
       "has_coal": "2025-05-30 21:34:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
     },
     "done": true
   },
@@ -1176,6 +1271,12 @@
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
       "has_planks": "2025-05-30 21:29:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-05-30 22:24:17 +0000"
     },
     "done": true
   },
@@ -1323,6 +1424,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-05-30 22:24:17 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/wall_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-05-30 21:51:19 +0000"
@@ -1365,9 +1472,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-30 21:44:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
     },
     "done": true
   },
@@ -1678,6 +1797,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-05-30 22:25:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-05-30 22:05:29 +0000"
@@ -1804,6 +1929,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-30 22:25:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-05-30 22:05:29 +0000"
@@ -1846,8 +1977,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-05-30 22:30:24 +0000",
       "cold_desert": "2025-05-30 21:29:04 +0000",
       "maple_woods": "2025-05-30 21:48:18 +0000",
       "field": "2025-05-30 21:47:54 +0000",
@@ -1856,6 +1994,7 @@
       "seasonal_forest": "2025-05-30 21:43:42 +0000",
       "fir_clearing": "2025-05-30 21:56:11 +0000",
       "pumpkin_patch": "2025-05-30 21:53:10 +0000",
+      "snowy_maple_woods": "2025-05-30 22:29:22 +0000",
       "ominous_woods": "2025-05-30 21:47:12 +0000"
     },
     "done": false
@@ -1881,6 +2020,12 @@
   "vinery:recipes/grapevine_lattice": {
     "criteria": {
       "has_coal": "2025-05-30 21:34:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
     },
     "done": true
   },
@@ -2028,6 +2173,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_cooler": {
     "criteria": {
       "has_planks": "2025-05-30 21:29:25 +0000"
@@ -2100,9 +2251,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
     "criteria": {
       "has_planks": "2025-05-30 21:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-05-30 22:25:24 +0000"
     },
     "done": true
   },
@@ -2151,6 +2320,12 @@
   "handcrafted:recipes/misc/tropical_fish_trophy": {
     "criteria": {
       "has_tropical_fish_trophy": "2025-05-30 21:29:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
     },
     "done": true
   },
@@ -2316,6 +2491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2025-05-30 21:29:25 +0000"
@@ -2427,6 +2608,12 @@
   "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
       "has_kitchen_hood_pipe": "2025-05-30 22:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-30 22:29:35 +0000"
     },
     "done": true
   },
@@ -2658,6 +2845,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-30 22:25:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_storage_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-05-30 21:51:19 +0000"
@@ -2697,6 +2890,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-05-30 21:29:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-30 22:25:24 +0000"
     },
     "done": true
   },
@@ -2769,6 +2968,12 @@
   "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-05-30 21:47:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-30 22:25:28 +0000"
     },
     "done": true
   },
