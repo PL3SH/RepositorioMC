@@ -802,3 +802,69 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [30May2025 21:36:11.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> a dormir miguel
 [30May2025 21:38:42.806] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2100, l='ServerLevel[world]', x=273.62, y=67.00, z=-359.38] died, message: 'Farmer froze to death'
 [30May2025 21:39:02.156] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/2086, l='ServerLevel[world]', x=307.30, y=64.00, z=-303.44] died, message: 'Nitwit froze to death'
+[30May2025 21:41:04.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> ta chevere la generación de la construcción
+[30May2025 21:41:18.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> chi pero esa nieve de mierda
+[30May2025 21:41:25.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> ci
+[30May2025 21:41:30.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> esta robable las casas
+[30May2025 21:41:36.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> bastante
+[30May2025 21:41:45.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> prefabricaddas xddd
+[30May2025 21:42:26.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate: Teleported Tomate to alexaa0310]
+[30May2025 21:43:26.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate: Set the world spawn point to 361, 72, -368 [0.0]]
+[30May2025 21:44:06.597] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1867, l='ServerLevel[world]', x=264.47, y=67.00, z=-333.30] died, message: 'Villager was slain by alexaa0310'
+[30May2025 21:44:13.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh has made the advancement [Getting an Upgrade]
+[30May2025 21:45:27.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate: Teleported alexaa0310 to Tomate]
+[30May2025 21:46:05.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate has made the advancement [Getting an Upgrade]
+[30May2025 21:46:25.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [Stone Age]
+[30May2025 21:46:38.156] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2192, l='ServerLevel[world]', x=257.56, y=59.00, z=-369.60] died, message: 'Farmer froze to death'
+[30May2025 21:46:53.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [Getting an Upgrade]
+[30May2025 21:47:27.270] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30May2025 21:47:27.280] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30May2025 21:47:45.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> zzz
+[30May2025 21:47:45.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> <zzzzzzzzzz
+[30May2025 21:47:47.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[30May2025 21:47:49.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> zzzzzzzzzzzzzzzzzzzzzzzzzz
+[30May2025 21:49:26.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate has made the advancement [Forbidden Fruit]
+[30May2025 21:49:39.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh has made the advancement [Light as a Rabbit]
+[30May2025 21:50:59.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh has made the advancement [Isn't It Iron Pick]
+[30May2025 21:52:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh has made the advancement [Suit Up]
+[30May2025 21:54:59.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate has made the advancement [Fruits of the Field]
+[30May2025 21:55:31.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> encontré una aldea
+[30May2025 21:55:42.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> te tepeo miguel?
+[30May2025 21:55:52.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate: Teleported alexaa0310 to Tomate]
+[30May2025 21:55:53.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> ahorita
+[30May2025 21:55:53.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [Fruits of the Field]
+[30May2025 21:56:12.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh has made the advancement [Tools of the Trade]
+[30May2025 21:56:48.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [How long's this been here?]
+[30May2025 21:58:09.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pl3sh moved too quickly! 9.979000246944864,1.1661092609382138,0.4340285888058588
+[30May2025 21:58:09.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4572ms or 91 ticks behind
+[30May2025 21:58:50.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [A Fool's Folly]
+[30May2025 21:58:54.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [Tools of the Trade]
+[30May2025 21:59:01.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> agora si me puedes tepiar
+[30May2025 21:59:18.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has reached the goal [Quaint Scribe]
+[30May2025 21:59:29.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> zzzzzzzzzzzzzz
+[30May2025 21:59:41.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> zzzz
+[30May2025 21:59:43.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> zzzzz
+[30May2025 22:00:04.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> ger tepiame xfa
+[30May2025 22:00:09.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate: Teleported pl3sh to Tomate]
+[30May2025 22:00:10.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> mira
+[30May2025 22:00:11.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh has made the advancement [Fruits of the Field]
+[30May2025 22:00:12.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> un totem
+[30May2025 22:01:32.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> tengo tinta para hacer hechizos
+[30May2025 22:01:36.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> ni idea como
+[30May2025 22:01:41.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> cómo sea hacen?
+[30May2025 22:01:42.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> xsakx ah
+[30May2025 22:01:52.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> mira wiki
+[30May2025 22:02:44.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> hagamos las maletas
+[30May2025 22:02:52.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> ok
+[30May2025 22:02:59.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> tienes hilo?
+[30May2025 22:03:04.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> yo tengo el cuero
+[30May2025 22:06:52.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexaa0310 lost connection: Disconnected
+[30May2025 22:06:52.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 left the game
+[30May2025 22:07:52.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> ya tengo una
+[30May2025 22:07:53.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> miguel
+[30May2025 22:08:02.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> tienes cueero
+[30May2025 22:08:19.006] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2163, l='ServerLevel[world]', x=259.84, y=59.00, z=-366.70] died, message: 'Farmer froze to death'
+[30May2025 22:08:53.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> ci
+[30May2025 22:09:06.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> tepe
+[30May2025 22:10:08.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexaa0310[/127.203.229.235:34011] logged in with entity id 23328 at (1322.6976060364943, 63.0, -1554.0957391788554)
+[30May2025 22:10:08.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 joined the game
