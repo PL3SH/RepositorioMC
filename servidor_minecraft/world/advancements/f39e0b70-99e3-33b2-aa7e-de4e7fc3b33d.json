@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2025-05-30 19:45:37 +0000"
@@ -26,6 +32,24 @@
   "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
     "criteria": {
       "has_copper_ingot": "2025-05-30 19:47:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
     },
     "done": true
   },
@@ -113,6 +137,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-30 19:41:54 +0000"
@@ -149,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_planks": "2025-05-30 19:45:42 +0000"
@@ -158,6 +194,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
     "criteria": {
       "has_planks": "2025-05-30 19:45:42 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-05-30 19:59:29 +0000"
     },
     "done": true
   },
@@ -269,6 +311,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-05-30 20:13:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
     "criteria": {
       "has_copper_ingot": "2025-05-30 19:47:29 +0000"
@@ -278,6 +332,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-05-30 19:40:36 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtain_rods": {
+    "criteria": {
+      "has_wood": "2025-05-30 20:00:00 +0000"
     },
     "done": true
   },
@@ -314,6 +374,18 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-05-30 19:40:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cupcake_display": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
     },
     "done": true
   },
@@ -455,6 +527,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-30 20:07:04 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:recipes/misc/basic_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-05-30 19:47:29 +0000"
@@ -467,6 +551,37 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000",
+      "has_the_recipe": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/campfire": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-30 19:45:37 +0000"
@@ -476,6 +591,12 @@
   "the_bumblezone:root": {
     "criteria": {
       "instant_granted": "2025-05-30 19:34:24 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-05-30 19:59:29 +0000"
     },
     "done": true
   },
@@ -506,6 +627,18 @@
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2025-05-30 19:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-05-30 19:59:29 +0000"
     },
     "done": true
   },
@@ -545,6 +678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-30 19:45:42 +0000"
@@ -581,6 +720,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2025-05-30 19:45:42 +0000"
@@ -614,6 +759,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-05-30 19:40:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
     },
     "done": true
   },
@@ -737,6 +888,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_basin": {
     "criteria": {
       "has_copper_ingot": "2025-05-30 19:47:29 +0000"
@@ -779,6 +936,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
     "criteria": {
       "has_planks": "2025-05-30 19:45:42 +0000"
@@ -815,6 +978,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-05-30 19:41:54 +0000"
@@ -842,6 +1011,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-05-30 19:53:55 +0000",
+      "rocky_shrubland": "2025-05-30 19:58:17 +0000",
       "marsh": "2025-05-30 19:39:01 +0000",
       "clover_patch": "2025-05-30 19:46:43 +0000",
       "redwood_forest": "2025-05-30 19:40:42 +0000"
@@ -851,6 +1021,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_slime_ball": "2025-05-30 19:42:29 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_lattice": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
     },
     "done": true
   },
@@ -887,6 +1063,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
       "has_copper_ingot": "2025-05-30 19:47:29 +0000"
+    },
+    "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2025-05-30 20:00:00 +0000"
     },
     "done": true
   },
@@ -935,6 +1117,12 @@
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
       "has_planks": "2025-05-30 19:45:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
     },
     "done": true
   },
@@ -989,6 +1177,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
     "criteria": {
       "has_planks": "2025-05-30 19:45:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
     },
     "done": true
   },
@@ -1094,6 +1288,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_basin": {
     "criteria": {
       "has_copper_ingot": "2025-05-30 19:47:29 +0000"
@@ -1172,9 +1372,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
     "criteria": {
       "has_planks": "2025-05-30 19:45:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
     },
     "done": true
   },
@@ -1202,9 +1420,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:wiki": {
     "criteria": {
       "instant_granted": "2025-05-30 19:34:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
     },
     "done": true
   },
@@ -1256,6 +1486,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
     "criteria": {
       "has_planks": "2025-05-30 19:45:42 +0000"
@@ -1277,9 +1513,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:swamp": "2025-05-30 19:46:50 +0000",
+      "minecraft:forest": "2025-05-30 19:59:05 +0000",
       "minecraft:plains": "2025-05-30 19:34:25 +0000"
     },
     "done": false
+  },
+  "bakery:recipes/bread_box": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
@@ -1296,6 +1539,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-30 19:47:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
     },
     "done": true
   },
@@ -1319,9 +1568,21 @@
     },
     "done": true
   },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2025-05-30 20:00:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
     "criteria": {
       "has_planks": "2025-05-30 19:45:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
     },
     "done": true
   },
@@ -1340,6 +1601,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_slime_ball": "2025-05-30 19:42:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-30 20:00:00 +0000"
     },
     "done": true
   },
