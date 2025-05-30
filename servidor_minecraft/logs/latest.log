@@ -1053,3 +1053,86 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [30May2025 20:28:25.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate left the game
 [30May2025 20:28:38.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 was shot by Skeleton
 [30May2025 20:29:02.496] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@543bcad7[id=<null>,name=Tomate,properties={},legacy=false] (/127.214.98.41:40863) lost connection: Disconnected
+[30May2025 20:29:43.538] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b02180f[id=<null>,name=Tomate,properties={},legacy=false] (/127.214.98.41:45521) lost connection: Disconnected
+[30May2025 20:30:04.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomate[/127.214.98.41:60437] logged in with entity id 17631 at (-3486.167940412293, 101.0, -220.2731377791485)
+[30May2025 20:30:04.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate joined the game
+[30May2025 20:30:19.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate: Teleported alexaa0310 to Tomate]
+[30May2025 20:30:43.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate: Set the time to 1000]
+[30May2025 20:30:48.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [Monster Hunter]
+[30May2025 20:37:05.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [Gravedigger]
+[30May2025 20:38:04.576] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30May2025 20:38:04.576] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30May2025 20:38:15.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pl3sh[/127.38.58.20:51937] logged in with entity id 22102 at (-2257.5, 63.0, 108.5)
+[30May2025 20:38:15.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh joined the game
+[30May2025 20:38:20.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> OLA
+[30May2025 20:38:32.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> hola soy omero chino
+[30May2025 20:38:49.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> bueno tepenme xfa que estopy perdido
+[30May2025 20:38:57.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate: Teleported Tomate to alexaa0310]
+[30May2025 20:39:19.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate: Teleported pl3sh to Tomate]
+[30May2025 20:39:24.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate has made the advancement [Gravedigger]
+[30May2025 20:39:26.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh has made the advancement [Blade MoveSets]
+[30May2025 20:39:29.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh has made the advancement [Gravedigger]
+[30May2025 20:40:05.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Gravedigger]
+[30May2025 20:40:15.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> vamotz
+[30May2025 20:40:54.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> ger
+[30May2025 20:40:58.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> como putas se tala
+[30May2025 20:41:03.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> talando
+[30May2025 20:41:11.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> pero si esa mierda se demora 28 horas
+[30May2025 20:41:22.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> es pq no tienes hacha
+[30May2025 20:41:30.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> a dormir
+[30May2025 20:41:36.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[30May2025 20:41:45.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nicolukas2831 lost connection: Disconnected
+[30May2025 20:41:45.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicolukas2831 left the game
+[30May2025 20:42:28.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh has made the advancement [Stone Age]
+[30May2025 20:42:30.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Stone Age]
+[30May2025 20:42:49.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [Stone Age]
+[30May2025 20:42:50.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh has made the advancement [Getting an Upgrade]
+[30May2025 20:42:53.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate: Teleported Tomate to alexaa0310]
+[30May2025 20:43:09.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [Getting an Upgrade]
+[30May2025 20:43:19.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Getting an Upgrade]
+[30May2025 20:43:32.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> vamos a minar miguel_
+[30May2025 20:43:34.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> ?
+[30May2025 20:43:39.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> si tp
+[30May2025 20:43:41.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> las minas aquí están una gonorrea
+[30May2025 20:43:44.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> pero ahorita
+[30May2025 20:43:46.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> primero comida
+[30May2025 20:43:49.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate: Teleported pl3sh to Tomate]
+[30May2025 20:45:04.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> el server lo optimizaste para qeu borre los objetos del suelo cada tanto no??
+[30May2025 20:45:11.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> nom
+[30May2025 20:45:17.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> me falta meterle los plugins
+[30May2025 20:45:22.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> deberias
+[30May2025 20:45:29.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> ok
+[30May2025 20:45:31.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> al igual ahorita esta usando como 5 gb nom[as
+[30May2025 20:45:35.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> era mientras se probaba
+[30May2025 20:45:40.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> como un server premiun de atyernos
+[30May2025 20:45:54.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> tumorro vician
+[30May2025 20:48:00.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexaa0310 lost connection: Disconnected
+[30May2025 20:48:00.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 left the game
+[30May2025 20:48:42.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheRoierP lost connection: Disconnected
+[30May2025 20:48:42.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP left the game
+[30May2025 20:48:50.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomate lost connection: Disconnected
+[30May2025 20:48:50.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate left the game
+[30May2025 20:48:56.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30May2025 20:48:56.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[30May2025 20:49:06.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30May2025 20:49:06.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30May2025 20:49:06.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30May2025 20:49:06.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pl3sh lost connection: Disconnected
+[30May2025 20:49:06.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh left the game
+[30May2025 20:49:06.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30May2025 20:49:06.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30May2025 20:49:08.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[30May2025 20:49:08.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30May2025 20:49:08.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30May2025 20:49:08.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[30May2025 20:49:08.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30May2025 20:49:08.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[30May2025 20:49:08.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30May2025 20:49:08.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30May2025 20:49:08.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[30May2025 20:49:08.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30May2025 20:49:08.956] [Server thread/INFO] [Framework/]: Unloading server configs...
+[30May2025 20:49:08.957] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[30May2025 20:49:08.959] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[30May2025 20:49:08.959] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[30May2025 20:49:08.960] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
