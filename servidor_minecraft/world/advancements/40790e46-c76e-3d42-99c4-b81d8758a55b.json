@@ -54,6 +54,7 @@
       "minecraft:river": "2025-05-30 21:51:04 +0000",
       "minecraft:snowy_plains": "2025-05-30 21:17:11 +0000",
       "minecraft:snowy_taiga": "2025-05-30 21:25:47 +0000",
+      "minecraft:forest": "2025-05-30 22:14:53 +0000",
       "minecraft:snowy_beach": "2025-05-30 21:19:17 +0000",
       "minecraft:plains": "2025-05-30 21:54:59 +0000"
     },
@@ -212,6 +213,12 @@
   "slashblade:material/proudsoul_tiny": {
     "criteria": {
       "BrokenBlade": "2025-05-30 21:24:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-05-30 22:12:26 +0000"
     },
     "done": true
   },
@@ -2414,6 +2421,12 @@
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-05-30 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-05-30 22:12:26 +0000"
     },
     "done": true
   },

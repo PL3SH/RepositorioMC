@@ -5137,3 +5137,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [30May2025 22:10:08.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexaa0310[/127.203.229.235:34011] logged in with entity id 23328 at (1322.6976060364943, 63.0, -1554.0957391788554)
 [30May2025 22:10:08.185] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@49fd2c10 into net.minecraft.network.Connection@25ca7462
 [30May2025 22:10:08.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 joined the game
+[30May2025 22:11:05.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> ola
+[30May2025 22:11:20.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> ontas
+[30May2025 22:11:54.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 22:11:54.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 22:12:31.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate> tzzzz
+[30May2025 22:12:58.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> chao ps manana juego
+[30May2025 22:13:05.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> weno
+[30May2025 22:13:08.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15115, l='ServerLevel[world]', x=1286.70, y=64.56, z=-1532.50] died, message: 'Villager suffocated in a wall'
+[30May2025 22:13:11.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pl3sh lost connection: Disconnected
+[30May2025 22:13:11.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh left the game
+[30May2025 22:13:20.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [Magery]
+[30May2025 22:16:54.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 22:16:54.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 22:17:14.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [Cover Me with Diamonds]
+[30May2025 22:17:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate: Teleported Tomate to alexaa0310]
+[30May2025 22:17:42.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate has made the advancement [Cover Me with Diamonds]
+[30May2025 22:19:01.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate: Teleported Tomate to alexaa0310]
+[30May2025 22:21:08.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate was laid to rest by Priest
