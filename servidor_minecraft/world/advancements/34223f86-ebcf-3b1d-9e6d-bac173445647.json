@@ -1,199 +1,194 @@
 {
-  "biomesoplenty:recipes/transportation/willow_boat": {
+  "vinery:main/forbidden_fruit": {
     "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
+      "apple": "2025-06-01 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-06-01 01:34:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-06-01 01:03:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
+      "unlock_right_away": "2025-06-01 01:32:07 +0000"
     },
     "done": true
   },
   "beautify:progression/root": {
     "criteria": {
-      "Install": "2025-06-01 01:03:04 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/umbran_boat": {
-    "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
+      "Install": "2025-06-01 01:32:07 +0000"
     },
     "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
-      "custom_test_name": "2025-06-01 01:03:04 +0000"
+      "custom_test_name": "2025-06-01 01:32:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_raft": {
+  "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/dead_boat": {
-    "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/magic_boat": {
-    "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
+      "has_apple": "2025-06-01 01:34:11 +0000"
     },
     "done": true
   },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
-      "tick": "2025-06-01 01:03:04 +0000"
+      "tick": "2025-06-01 01:32:07 +0000"
     },
     "done": true
   },
   "vinery:main/fruits_of_the_field": {
     "criteria": {
-      "fruits_of_the_field": "2025-06-01 01:03:05 +0000"
+      "fruits_of_the_field": "2025-06-01 01:32:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:34:15 +0000"
     },
     "done": true
   },
   "the_bumblezone:root": {
     "criteria": {
-      "instant_granted": "2025-06-01 01:03:04 +0000"
+      "instant_granted": "2025-06-01 01:32:07 +0000"
     },
     "done": true
   },
   "bakery:main/root": {
     "criteria": {
-      "seeds": "2025-06-01 01:04:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
+      "seeds": "2025-06-01 01:32:23 +0000"
     },
     "done": true
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
-      "bumbling_beepartments": "2025-06-01 01:03:05 +0000"
+      "bumbling_beepartments": "2025-06-01 01:32:08 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
+      "has_bread": "2025-06-01 01:34:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:34:15 +0000"
     },
     "done": true
   },
   "slashblade:movesets": {
     "criteria": {
-      "crafting": "2025-06-01 01:04:02 +0000"
+      "crafting": "2025-06-01 01:32:23 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/fir_boat": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
+      "has_iron_sword": "2025-06-01 01:35:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "bakery:recipes/sandwich": {
     "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
+      "has_bread": "2025-06-01 01:34:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "slashblade:material/proudsoul": {
     "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
+      "BrokenBlade": "2025-06-01 01:35:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
+      "has_item_frame": "2025-06-01 01:35:51 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/redwood_boat": {
+  "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
+      "has_onion": "2025-06-01 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-01 01:35:13 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2025-06-01 01:03:04 +0000"
+      "custom_test_name": "2025-06-01 01:32:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:34:15 +0000"
     },
     "done": true
   },
   "vinery:main/root": {
     "criteria": {
-      "seeds": "2025-06-01 01:04:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/hellbark_boat": {
-    "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/jacaranda_boat": {
-    "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/mahogany_boat": {
-    "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
+      "seeds": "2025-06-01 01:32:23 +0000"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2025-06-01 01:04:02 +0000"
+      "seeds": "2025-06-01 01:32:23 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/palm_boat": {
+  "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
+      "is_near_beehive": "2025-06-01 01:35:33 +0000"
     },
     "done": true
   },
   "the_bumblezone:wiki": {
     "criteria": {
-      "instant_granted": "2025-06-01 01:03:04 +0000"
+      "instant_granted": "2025-06-01 01:32:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-06-01 01:35:43 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:plains": "2025-06-01 01:03:05 +0000"
+      "minecraft:flower_forest": "2025-06-01 01:35:29 +0000",
+      "minecraft:plains": "2025-06-01 01:32:08 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
-      "in_water": "2025-06-01 01:03:31 +0000"
+      "has_onion": "2025-06-01 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:34:15 +0000"
     },
     "done": true
   },
