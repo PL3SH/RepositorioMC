@@ -49,6 +49,9 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "sugar_water_floor": "2025-06-01 20:19:54 +0000",
+      "hive_pillar": "2025-06-01 20:19:24 +0000",
+      "hive_wall": "2025-06-01 20:32:38 +0000",
       "bumbling_beepartments": "2025-06-01 01:32:20 +0000"
     },
     "done": false
@@ -5410,6 +5413,12 @@
     },
     "done": true
   },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_honey_slime_ranch": "2025-06-01 20:33:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-01 19:40:44 +0000"
@@ -5425,6 +5434,18 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-01 19:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-01 20:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-01 20:34:16 +0000"
     },
     "done": true
   },
@@ -5476,6 +5497,24 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-06-01 20:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-01 20:20:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-06-01 20:34:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-01 19:40:44 +0000"
@@ -5506,6 +5545,12 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-06-01 20:19:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-06-01 19:29:54 +0000"
@@ -5527,6 +5572,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-01 19:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-01 20:34:16 +0000"
     },
     "done": true
   },
@@ -5554,6 +5605,12 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-06-01 20:35:32 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_andesite_corner_trim": "2025-06-01 19:37:55 +0000"
@@ -5563,6 +5620,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-01 19:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-01 20:23:29 +0000"
     },
     "done": true
   },
@@ -5578,6 +5641,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-01 20:34:16 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:decor/obtain_all_string_curtains": {
+    "criteria": {
+      "yellow_string_curtain": "2025-06-01 20:35:19 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-06-01 19:32:11 +0000"
@@ -5587,6 +5662,24 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-01 19:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-01 20:20:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-06-01 20:19:28 +0000"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2025-06-01 20:34:16 +0000"
     },
     "done": true
   },
@@ -5605,6 +5698,12 @@
   "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
       "has_andesite": "2025-06-01 19:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-01 20:20:17 +0000"
     },
     "done": true
   },
@@ -5659,6 +5758,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-06-01 19:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-01 20:23:29 +0000"
     },
     "done": true
   },

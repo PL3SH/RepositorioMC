@@ -49,6 +49,9 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "sugar_water_floor": "2025-06-01 20:19:59 +0000",
+      "hive_pillar": "2025-06-01 20:19:42 +0000",
+      "hive_wall": "2025-06-01 20:26:58 +0000",
       "bumbling_beepartments": "2025-06-01 05:46:03 +0000"
     },
     "done": false
@@ -1279,6 +1282,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
+    "criteria": {
+      "has_honeycomb_block": "2025-06-01 20:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-06-01 20:14:45 +0000"
@@ -1288,6 +1297,12 @@
   "vinery:recipes/dirt_slab": {
     "criteria": {
       "has_dirt": "2025-06-01 20:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_honeycomb": "2025-06-01 20:34:54 +0000"
     },
     "done": true
   },
@@ -1333,6 +1348,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-01 20:31:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-01 20:34:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_leather": "2025-06-01 20:14:45 +0000"
@@ -1348,6 +1375,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-06-01 20:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-01 20:34:54 +0000"
     },
     "done": true
   },

@@ -6006,3 +6006,52 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Jun2025 20:16:02.146] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4602, y=-8, z=-6783}
 [01Jun2025 20:16:02.147] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4608, y=-1, z=-6747}
 [01Jun2025 20:16:02.153] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4602, y=-8, z=-6783}
+[01Jun2025 20:17:15.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[01Jun2025 20:17:18.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Lunita_Eg to Tomate_Lover]
+[01Jun2025 20:17:24.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has made the advancement [Stay dead]
+[01Jun2025 20:17:38.041] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/34345, l='ServerLevel[world]', x=3040.60, y=69.00, z=-4593.79] died, message: 'Botanist was slain by Husk'
+[01Jun2025 20:17:43.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> si sabes como lunita
+[01Jun2025 20:17:52.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> copn enderpel?
+[01Jun2025 20:18:40.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> no tengo enderpel unu
+[01Jun2025 20:18:46.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> ya te doy una esperame
+[01Jun2025 20:19:13.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate_Lover> en el hoyo
+[01Jun2025 20:19:21.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4703ms or 94 ticks behind
+[01Jun2025 20:19:28.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has made the advancement [Sticky Situation]
+[01Jun2025 20:19:29.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> x'd .... no pude xDDD
+[01Jun2025 20:19:33.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> lunita xD
+[01Jun2025 20:19:34.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate_Lover> xsajkxjkasx
+[01Jun2025 20:19:41.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Lunita_Eg to Tomate_Lover]
+[01Jun2025 20:19:46.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> jajajajaaja
+[01Jun2025 20:20:26.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> porq no entras al dc lunita?
+[01Jun2025 20:20:35.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 20:20:35.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 20:20:42.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> me va mal el dc :C
+[01Jun2025 20:20:47.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> aja
+[01Jun2025 20:20:50.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> con esa pc
+[01Jun2025 20:22:40.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> falto el mod deeee voice chat ´para el rolleo intenso ieufhoiwnfiowenf´wq
+[01Jun2025 20:23:05.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34346, l='ServerLevel[world]', x=3070.20, y=69.55, z=-4575.70] died, message: 'Villager was slain by Zombie'
+[01Jun2025 20:23:43.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> waaaaaa
+[01Jun2025 20:23:47.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> WaaAaAaAa
+[01Jun2025 20:25:35.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 20:25:35.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 20:26:04.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> no
+[01Jun2025 20:26:11.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> ni mrd
+[01Jun2025 20:26:13.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> x'd
+[01Jun2025 20:26:25.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> no
+[01Jun2025 20:26:42.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> xD
+[01Jun2025 20:26:46.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> enserio no tengo ni mrd
+[01Jun2025 20:27:46.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> xd
+[01Jun2025 20:27:58.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> XDXDXDXDXD
+[01Jun2025 20:29:29.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> que asko
+[01Jun2025 20:29:34.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> ?
+[01Jun2025 20:29:36.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> pero
+[01Jun2025 20:29:44.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> no se baña la cola
+[01Jun2025 20:30:35.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 20:30:35.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 20:33:54.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> ago de rap?
+[01Jun2025 20:34:02.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lunita_Eg> a
+[01Jun2025 20:34:30.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[01Jun2025 20:35:35.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 20:35:35.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 20:35:45.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lunita_Eg drowned
+[01Jun2025 20:36:06.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Lunita_Eg to Tomate_Lover]

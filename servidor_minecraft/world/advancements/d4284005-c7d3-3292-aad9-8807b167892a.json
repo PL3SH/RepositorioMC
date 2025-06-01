@@ -49,6 +49,9 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "sugar_water_floor": "2025-06-01 20:19:54 +0000",
+      "hive_pillar": "2025-06-01 20:19:24 +0000",
+      "hive_wall": "2025-06-01 20:30:07 +0000",
       "bumbling_beepartments": "2025-06-01 01:32:15 +0000"
     },
     "done": false
@@ -5396,9 +5399,21 @@
     },
     "done": true
   },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_honey_slime_ranch": "2025-06-01 20:34:30 +0000"
+    },
+    "done": false
+  },
   "slashblade:arts/rapid_slash": {
     "criteria": {
       "customtrigger": "2025-06-01 20:02:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
+    "criteria": {
+      "has_honeycomb_block": "2025-06-01 20:34:00 +0000"
     },
     "done": true
   },
@@ -5423,6 +5438,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-06-01 19:45:03 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-06-01 20:30:07 +0000"
     },
     "done": true
   },
@@ -5462,6 +5483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-06-01 20:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-01 19:45:04 +0000"
@@ -5480,9 +5507,21 @@
     },
     "done": true
   },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-06-01 20:30:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-01 19:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-01 20:30:09 +0000"
     },
     "done": true
   },
@@ -5501,6 +5540,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-06-01 19:45:03 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-06-01 20:19:16 +0000"
     },
     "done": true
   },
@@ -5534,9 +5579,21 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-06-01 20:35:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-01 19:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-01 20:31:08 +0000"
     },
     "done": true
   },
@@ -5576,6 +5633,18 @@
     },
     "done": true
   },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-06-01 20:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-01 20:30:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-06-01 19:45:03 +0000"
@@ -5585,6 +5654,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-01 19:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-01 20:30:09 +0000"
     },
     "done": true
   },
@@ -5621,6 +5696,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-06-01 19:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-01 20:31:08 +0000"
     },
     "done": true
   },
