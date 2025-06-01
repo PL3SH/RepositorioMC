@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2025-06-01 01:04:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-06-01 01:03:31 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-06-01 01:03:31 +0000"
+    },
+    "done": true
+  },
+  "slashblade:movesets": {
+    "criteria": {
+      "crafting": "2025-06-01 01:04:02 +0000"
     },
     "done": true
   },
@@ -125,6 +137,12 @@
     },
     "done": true
   },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2025-06-01 01:04:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-06-01 01:03:31 +0000"
@@ -146,6 +164,12 @@
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-06-01 01:03:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-06-01 01:04:02 +0000"
     },
     "done": true
   },
