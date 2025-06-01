@@ -58,6 +58,8 @@
       "minecraft:deep_ocean": "2025-06-01 06:49:00 +0000",
       "minecraft:eroded_badlands": "2025-06-01 20:04:45 +0000",
       "minecraft:birch_forest": "2025-06-01 06:25:37 +0000",
+      "minecraft:wooded_badlands": "2025-06-01 20:14:27 +0000",
+      "minecraft:badlands": "2025-06-01 20:06:51 +0000",
       "minecraft:beach": "2025-06-01 06:24:51 +0000",
       "minecraft:mangrove_swamp": "2025-06-01 06:08:21 +0000",
       "minecraft:sparse_jungle": "2025-06-01 06:23:05 +0000",
@@ -681,10 +683,12 @@
     "criteria": {
       "shrubland": "2025-06-01 06:36:44 +0000",
       "rocky_shrubland": "2025-06-01 06:45:24 +0000",
+      "lush_savanna": "2025-06-01 20:10:03 +0000",
       "old_growth_woodland": "2025-06-01 06:53:41 +0000",
       "orchard": "2025-06-01 06:36:00 +0000",
       "lavender_forest": "2025-06-01 06:36:19 +0000",
       "dryland": "2025-06-01 20:02:43 +0000",
+      "lush_desert": "2025-06-01 20:08:02 +0000",
       "redwood_forest": "2025-06-01 06:35:09 +0000",
       "dune_beach": "2025-06-01 06:36:56 +0000",
       "seasonal_forest": "2025-06-01 06:44:29 +0000",
@@ -1260,6 +1264,90 @@
   "call_of_yucutan:get_burnt_by_light": {
     "criteria": {
       "get_burnt_by_light_0": "2025-06-01 07:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-01 20:14:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/spatula": {
+    "criteria": {
+      "has_leather": "2025-06-01 20:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-01 20:14:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-06-01 20:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-01 20:14:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-06-01 20:14:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/frying_pan": {
+    "criteria": {
+      "has_leather": "2025-06-01 20:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-01 20:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-01 20:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-01 20:14:45 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_03": "2025-06-01 20:14:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/knife": {
+    "criteria": {
+      "has_leather": "2025-06-01 20:14:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/wrench": {
+    "criteria": {
+      "has_leather": "2025-06-01 20:14:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-06-01 20:14:45 +0000"
     },
     "done": true
   },
