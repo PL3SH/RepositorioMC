@@ -898,3 +898,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Jun2025 19:32:17.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexeversince has made the advancement [Amateur Archaeologist]
 [01Jun2025 19:33:22.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover has made the advancement [Adventurous Eater]
 [01Jun2025 19:33:55.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[01Jun2025 19:39:11.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomate_Lover lost connection: Disconnected
+[01Jun2025 19:39:11.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover left the game
+[01Jun2025 19:39:24.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomate_Lover[/127.214.98.41:51659] logged in with entity id 40901 at (2680.6799769345225, 19.0, -5348.571678292629)
+[01Jun2025 19:39:24.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover joined the game
+[01Jun2025 19:40:09.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to alexeversince]
+[01Jun2025 19:41:43.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover has made the advancement [Blade Arts -Combo B-              ]
+[01Jun2025 19:42:32.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[01Jun2025 19:42:33.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover has made the advancement [Abilities -Enemy Step-           ]
+[01Jun2025 19:44:02.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[01Jun2025 19:44:07.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexeversince has made the advancement [Sweet Dreams]
+[01Jun2025 19:44:17.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set the time to 1000]
+[01Jun2025 19:45:03.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover has made the advancement [Diamonds!]

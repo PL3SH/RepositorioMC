@@ -1,4 +1,10 @@
 {
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-01 19:43:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2025-06-01 19:08:44 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-01 19:31:23 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
       "has_the_recipe": "2025-06-01 19:09:55 +0000"
@@ -377,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-01 19:44:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-06-01 19:18:51 +0000"
@@ -454,6 +472,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-06-01 19:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-01 19:32:01 +0000"
     },
     "done": true
   },
@@ -709,6 +733,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
+    "criteria": {
+      "has_dead_bush": "2025-06-01 19:32:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
     "criteria": {
       "has_jungle_planks": "2025-06-01 19:08:44 +0000"
@@ -949,6 +979,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 19:36:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-06-01 19:26:45 +0000"
@@ -1109,6 +1145,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-06-01 19:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-01 19:32:01 +0000"
     },
     "done": true
   },
@@ -1364,6 +1406,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-06-01 19:36:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2025-06-01 19:08:44 +0000"
@@ -1433,6 +1481,12 @@
   "handcrafted:recipes/misc/wolf_trophy": {
     "criteria": {
       "has_wolf_trophy": "2025-06-01 19:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-01 19:31:23 +0000"
     },
     "done": true
   },
@@ -1514,6 +1568,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 19:36:30 +0000"
+    },
+    "done": true
+  },
   "slashblade:movesets": {
     "criteria": {
       "crafting": "2025-06-01 19:05:34 +0000"
@@ -1547,6 +1607,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_fridge": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 19:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_hoe": "2025-06-01 19:31:21 +0000"
     },
     "done": true
   },
@@ -1724,6 +1790,12 @@
     },
     "done": true
   },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-06-01 19:31:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
     "criteria": {
       "has_stick": "2025-06-01 19:08:48 +0000"
@@ -1820,6 +1892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-01 19:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-06-01 19:18:51 +0000"
@@ -1829,6 +1907,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
     "criteria": {
       "has_planks": "2025-06-01 19:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-01 19:36:43 +0000"
     },
     "done": true
   },
@@ -2337,6 +2421,12 @@
     },
     "done": true
   },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-06-01 19:32:01 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/deepslate_stove": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 19:16:04 +0000"
@@ -2619,6 +2709,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-01 19:43:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-06-01 19:29:18 +0000"
@@ -2661,9 +2757,21 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-01 19:32:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_sofa": {
     "criteria": {
       "has_planks": "2025-06-01 19:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_hoe": "2025-06-01 19:31:21 +0000"
     },
     "done": true
   },
@@ -2744,7 +2852,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-06-01 19:05:42 +0000"
+      "apple": "2025-06-01 19:05:42 +0000",
+      "bread": "2025-06-01 19:41:29 +0000"
     },
     "done": false
   },
@@ -2805,6 +2914,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 19:16:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-06-01 19:36:30 +0000"
     },
     "done": true
   },
