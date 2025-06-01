@@ -5485,3 +5485,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Jun2025 22:44:42.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jun2025 22:49:42.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 22:49:42.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 22:54:42.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 22:54:42.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 22:56:23.153] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15386, l='ServerLevel[world]', x=1284.30, y=64.00, z=-1262.16] died, message: 'Villager was slain by Zombie'
+[01Jun2025 22:59:42.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 22:59:42.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
