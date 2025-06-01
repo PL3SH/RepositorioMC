@@ -5490,3 +5490,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Jun2025 22:56:23.153] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15386, l='ServerLevel[world]', x=1284.30, y=64.00, z=-1262.16] died, message: 'Villager was slain by Zombie'
 [01Jun2025 22:59:42.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 22:59:42.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 23:04:42.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 23:04:42.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 23:05:55.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yisus321 has made the advancement [Suit Up]
+[01Jun2025 23:09:42.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 23:09:42.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 23:10:16.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yisus321 lost connection: Disconnected
+[01Jun2025 23:10:16.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yisus321 left the game
+[01Jun2025 23:10:29.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> zzzzzzzzzzzzzzzzzz
+[01Jun2025 23:10:32.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[01Jun2025 23:10:35.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[01Jun2025 23:11:05.093] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[01Jun2025 23:11:32.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[01Jun2025 23:12:12.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[01Jun2025 23:12:50.962] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[01Jun2025 23:14:42.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 23:14:42.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 23:16:01.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> zzzzzzzzz
+[01Jun2025 23:19:42.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 23:19:42.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 23:21:05.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> :C
+[01Jun2025 23:21:35.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> ahora k
+[01Jun2025 23:24:42.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 23:24:42.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 23:28:51.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> tienes diamantes?
+[01Jun2025 23:28:58.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> me sirve
+[01Jun2025 23:29:01.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> para mejorar tu mochila
+[01Jun2025 23:29:11.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> pero si es para usted
+[01Jun2025 23:29:13.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> como rara
+[01Jun2025 23:29:27.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> la peor basura q no se merece nada entonces
+[01Jun2025 23:29:38.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> la peor basura
+[01Jun2025 23:29:42.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 23:29:42.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 23:30:31.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> dramatica
+[01Jun2025 23:32:17.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> MADERA DE CEREZO Y DE ABETO
