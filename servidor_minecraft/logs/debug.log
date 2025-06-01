@@ -5367,3 +5367,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Jun2025 19:24:07.123] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@3aa4dfc9 into net.minecraft.network.Connection@6e9e2044
 [01Jun2025 19:24:07.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo joined the game
 [01Jun2025 19:24:34.246] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/33807, l='ServerLevel[world]', x=3030.33, y=62.51, z=-4435.30] died, message: 'Botanist was slain by Zombie'
+[01Jun2025 19:25:26.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 19:25:26.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 19:26:32.952] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/33455, l='ServerLevel[world]', x=3008.93, y=75.00, z=-4614.30] died, message: 'Farmer was slain by Husk'
+[01Jun2025 19:29:54.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[01Jun2025 19:30:26.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 19:30:26.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 19:31:23.623] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[01Jun2025 19:31:24.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexeversince has made the advancement [Left hanging]
+[01Jun2025 19:31:44.308] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[01Jun2025 19:31:53.458] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[01Jun2025 19:32:17.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexeversince has made the advancement [Amateur Archaeologist]
+[01Jun2025 19:33:22.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover has made the advancement [Adventurous Eater]
+[01Jun2025 19:33:55.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
