@@ -82,8 +82,14 @@
       "old_growth_woodland": "2025-06-01 01:58:01 +0000",
       "maple_woods": "2025-06-01 02:42:51 +0000",
       "field": "2025-06-01 02:42:58 +0000",
+      "lavender_forest": "2025-06-01 03:21:32 +0000",
+      "coniferous_forest": "2025-06-01 03:19:52 +0000",
       "spider_nest": "2025-06-01 02:03:22 +0000",
+      "seasonal_orchard": "2025-06-01 03:21:12 +0000",
+      "seasonal_forest": "2025-06-01 03:19:54 +0000",
       "auroral_garden": "2025-06-01 02:52:22 +0000",
+      "lavender_field": "2025-06-01 03:21:41 +0000",
+      "prairie": "2025-06-01 03:23:50 +0000",
       "snowy_coniferous_forest": "2025-06-01 02:51:08 +0000",
       "snowy_fir_clearing": "2025-06-01 02:52:41 +0000",
       "glowing_grotto": "2025-06-01 02:55:29 +0000"
@@ -2183,6 +2189,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-01 03:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-01 03:32:56 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/white_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
@@ -2378,6 +2396,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-06-01 03:19:03 +0000"
     },
     "done": true
   },
@@ -2867,6 +2891,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-01 03:26:23 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/spearhead_pennant": {
     "criteria": {
       "has_string": "2025-06-01 02:42:09 +0000"
@@ -2936,6 +2966,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-06-01 02:47:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-01 03:19:03 +0000"
     },
     "done": true
   },
@@ -3029,6 +3065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-01 03:30:11 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/corruption": {
     "criteria": {
       "corruption": "2025-06-01 03:10:02 +0000"
@@ -3074,6 +3116,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_basin": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-01 03:31:13 +0000"
     },
     "done": true
   },
@@ -3245,6 +3293,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-06-01 03:13:46 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/sandwich": {
     "criteria": {
       "has_bread": "2025-06-01 02:16:54 +0000"
@@ -3266,6 +3320,12 @@
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-01 03:32:55 +0000"
     },
     "done": true
   },
@@ -3410,6 +3470,12 @@
   "fairylights:recipes/fairylights/snowflake_light": {
     "criteria": {
       "has_iron": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-01 03:13:46 +0000"
     },
     "done": true
   },
@@ -3653,6 +3719,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-01 03:31:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-06-01 03:10:19 +0000"
@@ -3674,6 +3746,12 @@
   "vinery:recipes/straw_hat": {
     "criteria": {
       "has_wheat": "2025-06-01 02:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-01 03:32:55 +0000"
     },
     "done": true
   },
@@ -3710,6 +3788,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-06-01 02:49:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-06-01 03:13:46 +0000"
     },
     "done": true
   },
@@ -3758,6 +3842,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-01 03:18:16 +0000"
     },
     "done": true
   },
@@ -3839,11 +3929,20 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-06-01 03:19:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-06-01 02:30:37 +0000",
+      "sweet_berries": "2025-06-01 03:25:16 +0000",
+      "cooked_beef": "2025-06-01 03:32:00 +0000",
       "bread": "2025-06-01 02:16:57 +0000",
       "cookie": "2025-06-01 03:10:16 +0000",
+      "enchanted_golden_apple": "2025-06-01 03:15:39 +0000",
       "rabbit_stew": "2025-06-01 03:09:25 +0000"
     },
     "done": false
@@ -3851,6 +3950,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-01 02:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-01 03:26:23 +0000"
     },
     "done": true
   },
@@ -3905,6 +4010,12 @@
   "fairylights:recipes/fairylights/triangle_pennant": {
     "criteria": {
       "has_string": "2025-06-01 02:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-01 03:14:45 +0000"
     },
     "done": true
   },
