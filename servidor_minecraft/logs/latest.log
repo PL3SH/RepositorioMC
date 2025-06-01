@@ -899,3 +899,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Jun2025 23:38:12.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [01Jun2025 23:38:44.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [01Jun2025 23:39:01.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[01Jun2025 23:48:12.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dogepreo lost connection: Disconnected
+[01Jun2025 23:48:12.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo left the game
+[01Jun2025 23:48:33.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dogepreo[/127.122.50.165:49831] logged in with entity id 57996 at (1186.8125124330898, 63.0, -1257.0387441008809)
+[01Jun2025 23:48:33.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo joined the game
+[01Jun2025 23:53:02.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexaa0310 lost connection: Disconnected
+[01Jun2025 23:53:02.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 left the game
