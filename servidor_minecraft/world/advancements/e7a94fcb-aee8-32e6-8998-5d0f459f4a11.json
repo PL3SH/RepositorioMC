@@ -3156,6 +3156,7 @@
       "minecraft:pillager": "2025-06-01 19:10:26 +0000",
       "minecraft:skeleton": "2025-06-01 04:04:02 +0000",
       "minecraft:spider": "2025-06-01 02:13:02 +0000",
+      "minecraft:creeper": "2025-06-01 21:17:57 +0000",
       "minecraft:husk": "2025-06-01 19:56:00 +0000",
       "minecraft:cave_spider": "2025-06-01 02:57:33 +0000",
       "minecraft:zombie": "2025-06-01 02:51:33 +0000",
@@ -5398,6 +5399,12 @@
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-06-01 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-06-01 21:33:11 +0000"
     },
     "done": true
   },

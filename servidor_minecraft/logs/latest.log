@@ -1030,3 +1030,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Jun2025 21:14:45.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lunita_Eg has made the advancement [Hunt and Gather]
 [01Jun2025 21:17:26.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to Lunita_Eg]
 [01Jun2025 21:17:43.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[01Jun2025 21:18:27.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lunita_Eg has made the advancement [Diamonds!]
+[01Jun2025 21:22:25.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover was slain by Zombie
+[01Jun2025 21:22:28.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo fell from a high place
+[01Jun2025 21:22:59.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lunita_Eg has made the advancement [Cover Me with Diamonds]
+[01Jun2025 21:24:04.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported dogepreo to Tomate_Lover]
+[01Jun2025 21:25:10.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo was slain by Zombie
+[01Jun2025 21:25:16.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported dogepreo to Tomate_Lover]
+[01Jun2025 21:27:30.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to 4809.500000, -11.000000, -6436.500000]
+[01Jun2025 21:27:41.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported dogepreo to Tomate_Lover]
+[01Jun2025 21:27:43.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lunita_Eg lost connection: Disconnected
+[01Jun2025 21:27:43.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lunita_Eg left the game
+[01Jun2025 21:28:30.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lunita_Eg[/127.38.194.222:39805] logged in with entity id 85845 at (5031.427236271723, -37.0, -6485.7440021084485)
+[01Jun2025 21:28:30.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lunita_Eg joined the game
+[01Jun2025 21:28:34.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Lunita_Eg to Tomate_Lover]
+[01Jun2025 21:30:19.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[01Jun2025 21:32:00.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[01Jun2025 21:32:12.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lunita_Eg lost connection: Disconnected
+[01Jun2025 21:32:12.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lunita_Eg left the game
+[01Jun2025 21:33:11.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has completed the challenge [Just a Flesh Wound]
+[01Jun2025 21:34:06.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to alexeversince]
+[01Jun2025 21:34:18.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported dogepreo to Tomate_Lover]
+[01Jun2025 21:35:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to 0.500000, 0.000000, 0.500000]
+[01Jun2025 21:35:27.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[01Jun2025 21:35:46.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to 65.500000, 80.000000, 40.500000]
+[01Jun2025 21:35:49.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[01Jun2025 21:36:31.096] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/47087, l='ServerLevel[world]', x=3112.03, y=73.00, z=-4513.70] died, message: 'Botanist was slain by Husk'
