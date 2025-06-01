@@ -57,11 +57,16 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-01 01:57:46 +0000",
       "minecraft:taiga": "2025-06-01 02:35:22 +0000",
+      "minecraft:deep_ocean": "2025-06-01 06:49:00 +0000",
       "minecraft:frozen_river": "2025-06-01 04:08:26 +0000",
+      "minecraft:birch_forest": "2025-06-01 06:25:33 +0000",
       "minecraft:savanna_plateau": "2025-06-01 01:57:48 +0000",
+      "minecraft:beach": "2025-06-01 06:23:50 +0000",
       "minecraft:stony_peaks": "2025-06-01 01:58:02 +0000",
       "minecraft:mangrove_swamp": "2025-06-01 04:25:12 +0000",
+      "minecraft:sparse_jungle": "2025-06-01 06:23:04 +0000",
       "minecraft:river": "2025-06-01 02:17:27 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-01 06:51:17 +0000",
       "minecraft:stony_shore": "2025-06-01 02:52:31 +0000",
       "minecraft:snowy_plains": "2025-06-01 04:07:53 +0000",
       "minecraft:dripstone_caves": "2025-06-01 02:56:33 +0000",
@@ -71,8 +76,12 @@
       "minecraft:forest": "2025-06-01 02:01:24 +0000",
       "minecraft:lush_caves": "2025-06-01 02:56:29 +0000",
       "minecraft:frozen_ocean": "2025-06-01 04:30:01 +0000",
+      "minecraft:jungle": "2025-06-01 06:24:43 +0000",
+      "minecraft:ocean": "2025-06-01 06:48:09 +0000",
       "minecraft:snowy_beach": "2025-06-01 04:34:25 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-01 06:52:22 +0000",
       "minecraft:flower_forest": "2025-06-01 02:15:56 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-01 06:30:01 +0000",
       "minecraft:deep_dark": "2025-06-01 03:01:54 +0000",
       "minecraft:meadow": "2025-06-01 01:57:37 +0000",
       "minecraft:savanna": "2025-06-01 01:57:54 +0000",
@@ -447,6 +456,8 @@
       "coniferous_forest": "2025-06-01 02:54:25 +0000",
       "spider_nest": "2025-06-01 02:56:35 +0000",
       "redwood_forest": "2025-06-01 03:51:16 +0000",
+      "dune_beach": "2025-06-01 06:37:01 +0000",
+      "seasonal_forest": "2025-06-01 06:44:21 +0000",
       "auroral_garden": "2025-06-01 02:51:59 +0000",
       "lavender_field": "2025-06-01 02:27:15 +0000",
       "grassland": "2025-06-01 02:32:22 +0000",
@@ -454,7 +465,8 @@
       "snowy_coniferous_forest": "2025-06-01 02:50:04 +0000",
       "snowy_fir_clearing": "2025-06-01 02:52:38 +0000",
       "tundra": "2025-06-01 04:34:41 +0000",
-      "glowing_grotto": "2025-06-01 02:55:31 +0000"
+      "glowing_grotto": "2025-06-01 02:55:31 +0000",
+      "rainforest": "2025-06-01 06:53:33 +0000"
     },
     "done": false
   },
@@ -590,6 +602,7 @@
     "criteria": {
       "sweet_berries": "2025-06-01 03:28:07 +0000",
       "cooked_beef": "2025-06-01 02:53:33 +0000",
+      "apple": "2025-06-01 06:50:26 +0000",
       "bread": "2025-06-01 02:07:24 +0000",
       "golden_apple": "2025-06-01 03:07:04 +0000",
       "melon_slice": "2025-06-01 02:00:42 +0000",
@@ -3558,6 +3571,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-01 02:55:58 +0000",
       "minecraft:spider": "2025-06-01 03:29:42 +0000",
+      "minecraft:enderman": "2025-06-01 04:54:13 +0000",
       "minecraft:zombie": "2025-06-01 02:51:19 +0000"
     },
     "done": false
@@ -3911,15 +3925,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_mud": {
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
-      "has_mud": "2025-06-01 04:33:51 +0000"
+      "has_kitchen_hood_pipe": "2025-06-01 04:09:18 +0000"
     },
     "done": true
   },
   "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
     "criteria": {
       "walk_on_powder_snow_with_leather_boots": "2025-06-01 04:26:08 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-06-01 04:28:06 +0000"
     },
     "done": true
   },
@@ -3935,15 +3955,741 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_frostmaw": {
+  "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
-      "frostmaw": "2025-06-01 04:28:06 +0000"
+      "has_mud": "2025-06-01 04:33:51 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
-      "has_kitchen_hood_pipe": "2025-06-01 04:09:18 +0000"
+      "has_spider_eye": "2025-06-01 04:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-01 04:51:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2025-06-01 04:51:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-06-01 04:51:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-06-01 04:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-01 04:58:49 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-06-01 05:08:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-06-01 06:55:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-06-01 06:14:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-06-01 06:18:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-01 06:46:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_toaster": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_microwave": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-06-01 06:08:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-06-01 06:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-06-01 06:43:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-06-01 06:18:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 06:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-01 06:46:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-01 06:42:47 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:get_burnt_by_light": {
+    "criteria": {
+      "get_burnt_by_light_0": "2025-06-01 06:55:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-06-01 06:14:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-01 06:48:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-06-01 06:44:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_toilet": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_bath": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-01 06:37:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-01 06:48:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-01 06:48:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_range_hood": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-06-01 06:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-01 06:14:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_fridge": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-06-01 06:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_basin": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-01 06:42:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_toilet": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-06-01 06:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-01 07:00:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-06-01 06:46:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-06-01 06:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-01 06:56:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-06-01 06:46:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-01 06:37:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_fridge": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-01 06:30:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-01 06:46:39 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/one_way_glass": {
+    "criteria": {
+      "has_wood": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-06-01 07:00:24 +0000"
+    },
+    "done": false
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2025-06-01 07:00:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-01 06:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-06-01 06:08:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-06-01 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-01 06:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-01 06:51:46 +0000"
     },
     "done": true
   },

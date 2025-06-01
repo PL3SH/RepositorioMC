@@ -61,19 +61,23 @@
       "minecraft:savanna_plateau": "2025-06-01 01:44:05 +0000",
       "minecraft:beach": "2025-06-01 03:59:48 +0000",
       "minecraft:stony_peaks": "2025-06-01 01:44:09 +0000",
+      "minecraft:mangrove_swamp": "2025-06-01 05:11:19 +0000",
       "minecraft:sparse_jungle": "2025-06-01 03:50:32 +0000",
       "minecraft:river": "2025-06-01 02:17:39 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-01 05:21:56 +0000",
       "minecraft:stony_shore": "2025-06-01 02:52:37 +0000",
       "minecraft:snowy_plains": "2025-06-01 04:15:52 +0000",
       "minecraft:dripstone_caves": "2025-06-01 02:30:13 +0000",
       "minecraft:snowy_taiga": "2025-06-01 03:03:12 +0000",
       "minecraft:grove": "2025-06-01 03:01:13 +0000",
+      "minecraft:swamp": "2025-06-01 05:40:42 +0000",
       "minecraft:jagged_peaks": "2025-06-01 02:55:51 +0000",
       "minecraft:cold_ocean": "2025-06-01 04:01:26 +0000",
       "minecraft:forest": "2025-06-01 01:50:10 +0000",
       "minecraft:lush_caves": "2025-06-01 02:45:15 +0000",
       "minecraft:frozen_ocean": "2025-06-01 04:10:54 +0000",
       "minecraft:snowy_beach": "2025-06-01 04:10:18 +0000",
+      "minecraft:windswept_savanna": "2025-06-01 05:21:44 +0000",
       "minecraft:flower_forest": "2025-06-01 01:35:29 +0000",
       "minecraft:deep_dark": "2025-06-01 03:01:22 +0000",
       "minecraft:meadow": "2025-06-01 01:37:51 +0000",
@@ -227,6 +231,8 @@
       "shrubland": "2025-06-01 01:36:52 +0000",
       "rocky_shrubland": "2025-06-01 02:32:23 +0000",
       "scrubland": "2025-06-01 02:16:01 +0000",
+      "bayou": "2025-06-01 05:22:23 +0000",
+      "marsh": "2025-06-01 05:31:41 +0000",
       "cold_desert": "2025-06-01 04:20:38 +0000",
       "old_growth_woodland": "2025-06-01 02:17:23 +0000",
       "maple_woods": "2025-06-01 02:35:12 +0000",
@@ -2834,7 +2840,11 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-01 02:16:08 +0000",
       "minecraft:spider": "2025-06-01 02:21:39 +0000",
+      "minecraft:creeper": "2025-06-01 04:42:02 +0000",
+      "minecraft:witch": "2025-06-01 05:35:55 +0000",
       "minecraft:cave_spider": "2025-06-01 02:57:03 +0000",
+      "minecraft:enderman": "2025-06-01 05:48:36 +0000",
+      "minecraft:stray": "2025-06-01 04:42:55 +0000",
       "minecraft:zombie": "2025-06-01 02:17:49 +0000",
       "minecraft:drowned": "2025-06-01 02:38:52 +0000"
     },
@@ -3730,21 +3740,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-06-01 04:28:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-06-01 04:08:59 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-06-01 03:52:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-06-01 03:52:46 +0000"
     },
     "done": true
   },
@@ -3757,12 +3761,6 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-01 04:00:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-06-01 04:28:51 +0000"
     },
     "done": true
   },
@@ -3790,27 +3788,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-06-01 04:28:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-01 04:00:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2025-06-01 04:12:21 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-06-01 04:28:51 +0000"
     },
     "done": true
   },
@@ -3826,30 +3806,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-06-01 04:28:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cake_from_slices": {
-    "criteria": {
-      "has_cake_slice": "2025-06-01 04:04:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-06-01 04:04:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-06-01 04:28:51 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-01 04:00:08 +0000"
@@ -3859,24 +3815,6 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-01 04:00:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-06-01 04:28:51 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/root": {
-    "criteria": {
-      "grave_01": "2025-06-01 04:16:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-06-01 04:12:21 +0000"
     },
     "done": true
   },
@@ -3922,15 +3860,93 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_slices": {
+    "criteria": {
+      "has_cake_slice": "2025-06-01 04:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-01 04:04:23 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
     "criteria": {
       "anger_wizard": "2025-06-01 04:04:38 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "has_kitchen_hood_pipe": "2025-06-01 03:52:46 +0000"
+      "potion": "2025-06-01 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-06-01 04:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-01 04:12:21 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-06-01 04:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
     },
     "done": true
   },
@@ -3940,9 +3956,405 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
-      "has_boat": "2025-06-01 04:00:08 +0000"
+      "has_copper_ingot": "2025-06-01 05:22:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-01 05:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-01 05:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-01 05:38:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-01 05:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-01 05:38:37 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-06-01 05:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-01 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-01 04:50:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-06-01 04:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-01 05:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-01 05:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-01 05:22:48 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/copper_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-06-01 05:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-01 04:50:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-01 05:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-01 04:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-01 04:50:51 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/amethyst_chimes": {
+    "criteria": {
+      "has_planks": "2025-06-01 05:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-01 05:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-01 05:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-01 04:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-01 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-01 05:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-01 05:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-01 05:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-01 04:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-01 04:50:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2025-06-01 04:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-01 05:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-01 04:50:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-01 04:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-01 04:50:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2025-06-01 04:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-01 04:50:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 04:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-01 05:38:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-01 05:22:48 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-06-01 05:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-01 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-01 05:38:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-01 05:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 04:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-01 05:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-01 04:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-01 04:49:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-01 05:38:37 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-06-01 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-01 05:38:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-01 05:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-01 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/giant_mushroom": {
+    "criteria": {
+      "giant_mushroom": "2025-06-01 05:45:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-01 05:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-01 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-01 05:38:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-01 05:22:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 04:49:19 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_while_blinded": {
+    "criteria": {
+      "kill_while_blinded": "2025-06-01 05:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-01 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-01 04:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-01 05:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-06-01 05:22:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-01 05:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 04:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-01 05:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-01 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-01 04:49:19 +0000"
     },
     "done": true
   },

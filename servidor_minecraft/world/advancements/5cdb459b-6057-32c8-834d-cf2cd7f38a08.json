@@ -3283,6 +3283,42 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-06-01 04:15:42 +0000"
+    },
+    "done": false
+  },
+  "chimes:recipes/decorations/bamboo_chimes": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-01 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-01 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-01 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-06-01 04:19:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-06-01 04:31:05 +0000"
@@ -3319,12 +3355,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sweet_berries": "2025-06-01 04:15:42 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-06-01 04:31:05 +0000"
@@ -3355,33 +3385,9 @@
     },
     "done": true
   },
-  "chimes:recipes/decorations/bamboo_chimes": {
-    "criteria": {
-      "has_planks": "2025-06-01 04:16:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-06-01 04:32:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-06-01 04:31:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-06-01 04:16:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-06-01 04:16:42 +0000"
     },
     "done": true
   },
@@ -3391,15 +3397,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_bamboo": "2025-06-01 04:16:42 +0000"
+      "traded": "2025-06-01 04:32:14 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_flower": "2025-06-01 04:19:36 +0000"
+      "has_dandelion": "2025-06-01 04:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-01 04:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-01 04:55:33 +0000"
     },
     "done": true
   },
