@@ -159,6 +159,7 @@
       "auroral_garden": "2025-06-01 02:59:25 +0000",
       "volcano": "2025-06-01 19:06:15 +0000",
       "pasture": "2025-06-01 01:58:27 +0000",
+      "lavender_field": "2025-06-01 22:00:37 +0000",
       "fir_clearing": "2025-06-01 04:08:19 +0000",
       "grassland": "2025-06-01 04:06:54 +0000",
       "prairie": "2025-06-01 21:45:02 +0000",
@@ -5840,6 +5841,24 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-06-01 21:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-01 22:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-01 22:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-01 22:06:07 +0000"
     },
     "done": true
   },

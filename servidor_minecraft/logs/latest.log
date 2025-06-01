@@ -756,3 +756,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Jun2025 21:59:35.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4171ms or 83 ticks behind
 [01Jun2025 21:59:42.070] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 11 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@a2bc324
 [01Jun2025 21:59:45.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[01Jun2025 21:59:55.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4308ms or 86 ticks behind
+[01Jun2025 22:00:07.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover has reached the goal [Quaint Scribe]
+[01Jun2025 22:00:16.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6045ms or 120 ticks behind
+[01Jun2025 22:00:34.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to alexaa0310]
+[01Jun2025 22:00:34.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3060ms or 61 ticks behind
+[01Jun2025 22:00:37.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported dogepreo to alexaa0310]
+[01Jun2025 22:00:53.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to Yisus321]
+[01Jun2025 22:00:59.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported alexaa0310 to Tomate_Lover]
+[01Jun2025 22:01:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported dogepreo to Tomate_Lover]
+[01Jun2025 22:02:24.799] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 16 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@24e09c2c
+[01Jun2025 22:02:29.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set the time to 1000]
+[01Jun2025 22:04:08.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to alexaa0310]
+[01Jun2025 22:05:48.309] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 11 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@f0c6a9a
+[01Jun2025 22:06:53.026] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 33 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@32debaac
+[01Jun2025 22:07:04.415] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 14 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@5d6adea9
+[01Jun2025 22:07:04.423] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 35 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@5d009316
+[01Jun2025 22:07:11.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomate_Lover lost connection: Disconnected
+[01Jun2025 22:07:11.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover left the game
+[01Jun2025 22:07:18.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has reached the goal [Heart Of The Storm]
+[01Jun2025 22:08:47.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomate_Lover[/127.214.98.41:39975] logged in with entity id 8975 at (184.5818700794851, 84.0, 2.1814721494830622)
+[01Jun2025 22:08:47.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover joined the game
+[01Jun2025 22:09:09.627] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 1 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@5d36aeb4
+[01Jun2025 22:09:22.557] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 3 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@15ee1e27
+[01Jun2025 22:09:29.128] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 54 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@2b6ae7ca
+[01Jun2025 22:09:49.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set own game mode to Creative Mode]
