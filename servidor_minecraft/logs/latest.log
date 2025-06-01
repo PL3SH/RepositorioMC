@@ -1157,3 +1157,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Jun2025 02:52:37.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [Isn't It Iron Pick]
 [01Jun2025 02:52:39.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Manch to Tomate_Lover]
 [01Jun2025 02:52:44.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[01Jun2025 02:53:03.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4053ms or 81 ticks behind
+[01Jun2025 02:53:36.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[01Jun2025 02:54:02.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has completed the challenge [Rude Awakening]
+[01Jun2025 02:54:24.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to alexaa0310]
+[01Jun2025 02:54:32.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pl3sh moved too quickly! 5.114923763498609,0.17081290814229533,-8.906911329696754
+[01Jun2025 02:54:32.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dogepreo moved too quickly! -0.8564630684372787,3.916922182193531,-9.39799665593273
+[01Jun2025 02:54:32.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3918ms or 78 ticks behind
+[01Jun2025 02:54:42.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[01Jun2025 02:54:47.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/50280, l='ServerLevel[world]', x=1284.17, y=112.00, z=314.30] died, message: 'Farmer was slain by Zombie'
+[01Jun2025 02:55:20.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [Left hanging]
+[01Jun2025 02:55:27.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh fell from a high place
+[01Jun2025 02:55:35.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported pl3sh to Tomate_Lover]
+[01Jun2025 02:56:27.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has made the advancement [Suit Up]
+[01Jun2025 02:56:28.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manch has made the advancement [Chest Slayer]
+[01Jun2025 02:57:11.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/50325, l='ServerLevel[world]', x=1283.70, y=86.00, z=355.36] died, message: 'Botanist was slain by Zombie'
+[01Jun2025 02:57:42.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover has made the advancement [Stone Age]
+[01Jun2025 02:58:18.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> GEEEEEEEEEEER
+[01Jun2025 02:58:21.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> SOOOOOOON
+[01Jun2025 02:58:46.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh fell from a high place
+[01Jun2025 02:58:52.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has made the advancement [You Monster...]
+[01Jun2025 02:58:56.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has made the advancement [Diamonds!]
+[01Jun2025 02:59:12.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [Monster Hunter]
+[01Jun2025 02:59:48.203] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/50319, l='ServerLevel[world]', x=1300.53, y=115.00, z=390.70] died, message: 'Weaponsmith was slain by Zombie'
+[01Jun2025 03:00:34.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has made the advancement [Into Darkness]
+[01Jun2025 03:00:36.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover has made the advancement [Chest Slayer]
+[01Jun2025 03:00:37.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover has made the advancement [Amateur Archaeologist]
+[01Jun2025 03:00:57.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has made the advancement [Source of Evil]
+[01Jun2025 03:01:43.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh has made the advancement [Sneak 100]
+[01Jun2025 03:01:46.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Manch to Tomate_Lover]
+[01Jun2025 03:01:54.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to pl3sh]
+[01Jun2025 03:01:55.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover has made the advancement [Sneak 100]
+[01Jun2025 03:02:05.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> m,uy denso lo del diamante
+[01Jun2025 03:02:13.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manch fell from a high place
+[01Jun2025 03:02:27.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Manch> tp
+[01Jun2025 03:02:29.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> ger llegue solo
+[01Jun2025 03:02:39.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Manch to Tomate_Lover]
+[01Jun2025 03:02:43.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has made the advancement [Taking from the Dead]
