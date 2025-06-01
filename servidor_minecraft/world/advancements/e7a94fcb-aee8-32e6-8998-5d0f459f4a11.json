@@ -5877,6 +5877,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-06-01 23:34:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
     "criteria": {
       "has_glow_berries": "2025-06-01 23:12:53 +0000"
@@ -5994,6 +6000,18 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-06-01 22:50:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-06-01 23:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-01 23:34:19 +0000"
     },
     "done": true
   },
@@ -6126,6 +6144,12 @@
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_flower": "2025-06-01 22:25:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-06-01 23:34:19 +0000"
     },
     "done": true
   },
