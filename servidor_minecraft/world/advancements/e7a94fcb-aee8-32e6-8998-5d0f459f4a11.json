@@ -5416,7 +5416,8 @@
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
       "in_honey_slime_ranch": "2025-06-01 20:33:57 +0000",
-      "in_candle_parkour": "2025-06-01 20:41:47 +0000"
+      "in_candle_parkour": "2025-06-01 20:41:47 +0000",
+      "in_throne_pillar": "2025-06-01 20:52:58 +0000"
     },
     "done": false
   },
@@ -5429,6 +5430,18 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-01 19:40:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
+    "criteria": {
+      "has_honeycomb_block": "2025-06-01 20:53:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-06-01 20:55:09 +0000"
     },
     "done": true
   },
@@ -5543,6 +5556,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-01 19:40:44 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+    "criteria": {
+      "teleport_out_of_bumblezone": "2025-06-01 20:54:02 +0000"
     },
     "done": true
   },
@@ -5699,6 +5718,18 @@
   "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
       "has_andesite": "2025-06-01 19:37:55 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2025-06-01 20:52:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-06-01 20:55:04 +0000"
     },
     "done": true
   },

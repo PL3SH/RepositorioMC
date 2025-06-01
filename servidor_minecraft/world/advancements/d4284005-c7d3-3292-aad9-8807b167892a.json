@@ -5408,7 +5408,8 @@
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
       "in_honey_slime_ranch": "2025-06-01 20:34:30 +0000",
-      "in_candle_parkour": "2025-06-01 20:41:46 +0000"
+      "in_candle_parkour": "2025-06-01 20:41:46 +0000",
+      "in_throne_pillar": "2025-06-01 20:53:48 +0000"
     },
     "done": false
   },
@@ -5550,6 +5551,12 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+    "criteria": {
+      "teleport_out_of_bumblezone": "2025-06-01 20:54:04 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
     "criteria": {
       "teleport_to_bumblezone_pearl": "2025-06-01 20:19:16 +0000"
@@ -5661,6 +5668,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-01 19:45:04 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2025-06-01 20:53:48 +0000"
     },
     "done": true
   },
