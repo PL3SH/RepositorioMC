@@ -146,6 +146,7 @@
       "highland": "2025-06-01 04:23:58 +0000",
       "jade_cliffs": "2025-06-01 04:24:03 +0000",
       "clover_patch": "2025-06-01 04:23:55 +0000",
+      "cold_desert": "2025-06-01 22:36:51 +0000",
       "maple_woods": "2025-06-01 03:55:20 +0000",
       "field": "2025-06-01 02:49:27 +0000",
       "lavender_forest": "2025-06-01 22:28:35 +0000",
@@ -5851,9 +5852,45 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:34:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:34:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:34:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:34:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-06-01 22:06:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-06-01 22:34:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-06-01 22:34:32 +0000"
     },
     "done": true
   },
@@ -5863,15 +5900,45 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:34:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:34:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-06-01 22:34:45 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_rune_of_the_storm": {
     "criteria": {
       "rune_of_the_storm": "2025-06-01 22:07:18 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:34:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-01 22:06:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:34:45 +0000"
     },
     "done": true
   },

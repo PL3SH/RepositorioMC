@@ -860,3 +860,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Jun2025 22:30:41.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> dra
 [01Jun2025 22:30:44.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> matica
 [01Jun2025 22:30:47.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4798ms or 95 ticks behind
+[01Jun2025 22:31:08.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5455ms or 109 ticks behind
+[01Jun2025 22:31:31.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7773ms or 155 ticks behind
+[01Jun2025 22:31:51.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5677ms or 113 ticks behind
+[01Jun2025 22:32:01.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 has made the advancement [Getting an Upgrade]
+[01Jun2025 22:32:09.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3271ms or 65 ticks behind
+[01Jun2025 22:32:27.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2442ms or 48 ticks behind
+[01Jun2025 22:32:44.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[01Jun2025 22:33:20.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01Jun2025 22:35:06.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yisus321 has made the advancement [Sweet Dreams]
+[01Jun2025 22:35:15.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> zzzzzzz
+[01Jun2025 22:38:41.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yisus321 lost connection: Disconnected
+[01Jun2025 22:38:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yisus321 left the game
+[01Jun2025 22:38:51.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yisus321[/127.245.217.153:35873] logged in with entity id 28329 at (1093.525980369254, 103.0, -603.479284664675)
+[01Jun2025 22:38:51.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yisus321 joined the game
