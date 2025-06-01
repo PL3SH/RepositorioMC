@@ -219,6 +219,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-06-01 03:09:01 +0000"
+    },
+    "done": true
+  },
   "beautify:rope": {
     "criteria": {
       "requirement": "2025-06-01 02:27:47 +0000"
@@ -631,6 +637,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-01 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-06-01 03:03:29 +0000"
     },
     "done": true
   },
@@ -1337,6 +1349,12 @@
   "handcrafted:recipes/misc/oak_desk": {
     "criteria": {
       "has_oak_desk": "2025-06-01 02:06:49 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-06-01 03:09:20 +0000"
     },
     "done": true
   },
@@ -2467,6 +2485,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-06-01 03:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-01 02:13:01 +0000"
@@ -3055,6 +3079,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-01 03:10:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_wheat": "2025-06-01 02:01:21 +0000"
@@ -3250,6 +3280,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-01 02:24:33 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2025-06-01 03:09:23 +0000"
     },
     "done": true
   },
@@ -3569,8 +3605,10 @@
     "criteria": {
       "cooked_beef": "2025-06-01 02:53:33 +0000",
       "bread": "2025-06-01 02:07:24 +0000",
+      "golden_apple": "2025-06-01 03:07:04 +0000",
       "melon_slice": "2025-06-01 02:00:42 +0000",
       "golden_carrot": "2025-06-01 02:30:29 +0000",
+      "enchanted_golden_apple": "2025-06-01 03:12:23 +0000",
       "cod": "2025-06-01 02:05:57 +0000"
     },
     "done": false
@@ -3722,6 +3760,12 @@
   "fairylights:recipes/fairylights/triangle_pennant": {
     "criteria": {
       "has_string": "2025-06-01 02:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-01 03:05:33 +0000"
     },
     "done": true
   },

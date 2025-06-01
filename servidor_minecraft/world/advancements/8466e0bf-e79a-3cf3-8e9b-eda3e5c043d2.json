@@ -2105,6 +2105,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-06-01 03:09:16 +0000"
+    },
+    "done": true
+  },
   "beautify:rope": {
     "criteria": {
       "requirement": "2025-06-01 02:42:09 +0000"
@@ -2339,6 +2345,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-06-01 03:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-06-01 02:12:55 +0000"
@@ -2540,6 +2552,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-06-01 02:17:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-06-01 03:09:25 +0000"
     },
     "done": true
   },
@@ -2768,6 +2786,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-06-01 02:17:53 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-06-01 03:11:41 +0000"
     },
     "done": true
   },
@@ -3005,6 +3029,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-06-01 03:10:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
@@ -3152,6 +3182,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-01 02:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-01 03:05:55 +0000"
     },
     "done": true
   },
@@ -3341,6 +3377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-06-01 03:06:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
@@ -3410,6 +3452,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-06-01 03:05:53 +0000"
     },
     "done": true
   },
@@ -3605,6 +3653,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-01 03:10:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-01 02:42:46 +0000"
@@ -3737,6 +3791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-01 03:05:55 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-01 02:49:03 +0000"
@@ -3782,7 +3842,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-06-01 02:30:37 +0000",
-      "bread": "2025-06-01 02:16:57 +0000"
+      "bread": "2025-06-01 02:16:57 +0000",
+      "cookie": "2025-06-01 03:10:16 +0000",
+      "rabbit_stew": "2025-06-01 03:09:25 +0000"
     },
     "done": false
   },
