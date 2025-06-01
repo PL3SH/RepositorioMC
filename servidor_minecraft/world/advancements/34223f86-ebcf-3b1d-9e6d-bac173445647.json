@@ -56,17 +56,24 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-06-01 02:33:20 +0000",
+      "minecraft:frozen_river": "2025-06-01 04:10:24 +0000",
       "minecraft:sunflower_plains": "2025-06-01 02:26:53 +0000",
       "minecraft:savanna_plateau": "2025-06-01 01:44:05 +0000",
+      "minecraft:beach": "2025-06-01 03:59:48 +0000",
       "minecraft:stony_peaks": "2025-06-01 01:44:09 +0000",
+      "minecraft:sparse_jungle": "2025-06-01 03:50:32 +0000",
       "minecraft:river": "2025-06-01 02:17:39 +0000",
       "minecraft:stony_shore": "2025-06-01 02:52:37 +0000",
+      "minecraft:snowy_plains": "2025-06-01 04:15:52 +0000",
       "minecraft:dripstone_caves": "2025-06-01 02:30:13 +0000",
       "minecraft:snowy_taiga": "2025-06-01 03:03:12 +0000",
       "minecraft:grove": "2025-06-01 03:01:13 +0000",
       "minecraft:jagged_peaks": "2025-06-01 02:55:51 +0000",
+      "minecraft:cold_ocean": "2025-06-01 04:01:26 +0000",
       "minecraft:forest": "2025-06-01 01:50:10 +0000",
       "minecraft:lush_caves": "2025-06-01 02:45:15 +0000",
+      "minecraft:frozen_ocean": "2025-06-01 04:10:54 +0000",
+      "minecraft:snowy_beach": "2025-06-01 04:10:18 +0000",
       "minecraft:flower_forest": "2025-06-01 01:35:29 +0000",
       "minecraft:deep_dark": "2025-06-01 03:01:22 +0000",
       "minecraft:meadow": "2025-06-01 01:37:51 +0000",
@@ -215,21 +222,35 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-06-01 04:33:34 +0000",
       "woodland": "2025-06-01 01:50:20 +0000",
       "shrubland": "2025-06-01 01:36:52 +0000",
       "rocky_shrubland": "2025-06-01 02:32:23 +0000",
       "scrubland": "2025-06-01 02:16:01 +0000",
+      "cold_desert": "2025-06-01 04:20:38 +0000",
       "old_growth_woodland": "2025-06-01 02:17:23 +0000",
       "maple_woods": "2025-06-01 02:35:12 +0000",
       "field": "2025-06-01 02:33:11 +0000",
       "orchard": "2025-06-01 02:32:11 +0000",
+      "lavender_forest": "2025-06-01 03:56:31 +0000",
+      "coniferous_forest": "2025-06-01 04:02:51 +0000",
       "spider_nest": "2025-06-01 02:57:02 +0000",
+      "redwood_forest": "2025-06-01 03:51:32 +0000",
+      "seasonal_orchard": "2025-06-01 03:58:05 +0000",
+      "seasonal_forest": "2025-06-01 03:58:47 +0000",
       "auroral_garden": "2025-06-01 02:52:21 +0000",
+      "volcano": "2025-06-01 03:38:38 +0000",
+      "volcanic_plains": "2025-06-01 03:40:36 +0000",
       "lavender_field": "2025-06-01 02:27:03 +0000",
+      "fir_clearing": "2025-06-01 04:02:13 +0000",
+      "pumpkin_patch": "2025-06-01 03:58:20 +0000",
       "grassland": "2025-06-01 02:32:29 +0000",
       "snowy_coniferous_forest": "2025-06-01 02:50:08 +0000",
       "snowy_fir_clearing": "2025-06-01 02:52:46 +0000",
-      "glowing_grotto": "2025-06-01 02:55:36 +0000"
+      "tundra": "2025-06-01 04:22:17 +0000",
+      "glowing_grotto": "2025-06-01 02:55:36 +0000",
+      "rainforest": "2025-06-01 03:38:30 +0000",
+      "snowy_maple_woods": "2025-06-01 04:13:23 +0000"
     },
     "done": false
   },
@@ -3652,6 +3673,276 @@
   "refurbished_furniture:recipes/frying/sweet_berry_jam": {
     "criteria": {
       "has_ingredient": "2025-06-01 03:19:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-01 03:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-01 03:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-01 03:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2025-06-01 03:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2025-06-01 03:39:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-06-01 03:39:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-06-01 03:39:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-06-01 03:39:56 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-06-01 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-01 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-06-01 03:52:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-06-01 04:12:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_slices": {
+    "criteria": {
+      "has_cake_slice": "2025-06-01 04:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-01 04:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-06-01 04:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-01 04:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-06-01 04:04:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-06-01 03:52:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-06-01 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 04:00:08 +0000"
     },
     "done": true
   },
