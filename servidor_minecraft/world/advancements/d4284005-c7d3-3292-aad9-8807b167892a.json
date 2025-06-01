@@ -58,6 +58,7 @@
       "minecraft:snowy_slopes": "2025-06-01 01:57:46 +0000",
       "minecraft:taiga": "2025-06-01 02:35:22 +0000",
       "minecraft:deep_ocean": "2025-06-01 06:49:00 +0000",
+      "minecraft:eroded_badlands": "2025-06-01 20:04:21 +0000",
       "minecraft:frozen_river": "2025-06-01 04:08:26 +0000",
       "minecraft:birch_forest": "2025-06-01 06:25:33 +0000",
       "minecraft:savanna_plateau": "2025-06-01 01:57:48 +0000",
@@ -3578,6 +3579,7 @@
       "minecraft:skeleton": "2025-06-01 02:55:58 +0000",
       "minecraft:spider": "2025-06-01 03:29:42 +0000",
       "minecraft:creeper": "2025-06-01 19:35:36 +0000",
+      "minecraft:husk": "2025-06-01 19:55:51 +0000",
       "minecraft:cave_spider": "2025-06-01 19:30:07 +0000",
       "minecraft:enderman": "2025-06-01 04:54:13 +0000",
       "minecraft:zombie": "2025-06-01 02:51:19 +0000"
@@ -5391,6 +5393,24 @@
     },
     "done": true
   },
+  "slashblade:arts/rapid_slash": {
+    "criteria": {
+      "customtrigger": "2025-06-01 20:02:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-06-01 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-06-01 20:00:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-01 19:45:04 +0000"
@@ -5418,6 +5438,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-01 19:45:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/upperslash": {
+    "criteria": {
+      "customtrigger": "2025-06-01 20:03:09 +0000"
     },
     "done": true
   },
@@ -5463,6 +5489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 19:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-06-01 19:45:03 +0000"
@@ -5478,6 +5510,12 @@
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-06-01 19:45:03 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2025-06-01 20:03:14 +0000"
     },
     "done": true
   },
@@ -5568,6 +5606,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-01 19:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 19:57:26 +0000"
     },
     "done": true
   },

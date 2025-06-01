@@ -58,10 +58,12 @@
       "minecraft:old_growth_pine_taiga": "2025-06-01 03:41:54 +0000",
       "minecraft:taiga": "2025-06-01 03:18:58 +0000",
       "minecraft:deep_ocean": "2025-06-01 04:02:27 +0000",
+      "minecraft:eroded_badlands": "2025-06-01 20:04:20 +0000",
       "minecraft:frozen_river": "2025-06-01 02:57:51 +0000",
       "minecraft:sunflower_plains": "2025-06-01 02:00:21 +0000",
       "minecraft:birch_forest": "2025-06-01 04:19:53 +0000",
       "minecraft:bamboo_jungle": "2025-06-01 18:17:29 +0000",
+      "minecraft:wooded_badlands": "2025-06-01 19:59:55 +0000",
       "minecraft:savanna_plateau": "2025-06-01 02:12:27 +0000",
       "minecraft:beach": "2025-06-01 03:55:40 +0000",
       "minecraft:stony_peaks": "2025-06-01 02:12:31 +0000",
@@ -136,6 +138,7 @@
       "rocky_shrubland": "2025-06-01 02:09:56 +0000",
       "scrubland": "2025-06-01 02:13:35 +0000",
       "fungal_jungle": "2025-06-01 18:17:40 +0000",
+      "lush_savanna": "2025-06-01 19:59:57 +0000",
       "highland": "2025-06-01 04:23:58 +0000",
       "jade_cliffs": "2025-06-01 04:24:03 +0000",
       "clover_patch": "2025-06-01 04:23:55 +0000",
@@ -3149,6 +3152,7 @@
       "minecraft:pillager": "2025-06-01 19:10:26 +0000",
       "minecraft:skeleton": "2025-06-01 04:04:02 +0000",
       "minecraft:spider": "2025-06-01 02:13:02 +0000",
+      "minecraft:husk": "2025-06-01 19:56:00 +0000",
       "minecraft:cave_spider": "2025-06-01 02:57:33 +0000",
       "minecraft:zombie": "2025-06-01 02:51:33 +0000",
       "minecraft:drowned": "2025-06-01 18:21:25 +0000"
@@ -5387,6 +5391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-01 19:58:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-01 19:40:44 +0000"
@@ -5531,6 +5541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-01 19:58:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-06-01 19:31:53 +0000"
@@ -5591,6 +5607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-06-01 19:58:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-06-01 19:37:55 +0000"
@@ -5600,6 +5622,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-01 19:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-01 19:58:06 +0000"
     },
     "done": true
   },
