@@ -74,6 +74,7 @@
       "minecraft:cold_ocean": "2025-06-01 03:58:04 +0000",
       "minecraft:forest": "2025-06-01 04:14:36 +0000",
       "minecraft:lush_caves": "2025-06-01 02:56:51 +0000",
+      "minecraft:desert": "2025-06-01 19:07:19 +0000",
       "minecraft:ocean": "2025-06-01 04:01:12 +0000",
       "minecraft:jungle": "2025-06-01 18:27:47 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-01 03:41:13 +0000",
@@ -146,6 +147,7 @@
       "dune_beach": "2025-06-01 04:10:25 +0000",
       "seasonal_forest": "2025-06-01 03:58:15 +0000",
       "auroral_garden": "2025-06-01 02:59:25 +0000",
+      "volcano": "2025-06-01 19:06:15 +0000",
       "pasture": "2025-06-01 01:58:27 +0000",
       "fir_clearing": "2025-06-01 04:08:19 +0000",
       "grassland": "2025-06-01 04:06:54 +0000",
@@ -383,6 +385,7 @@
     "criteria": {
       "cooked_mutton": "2025-06-01 02:23:23 +0000",
       "cooked_beef": "2025-06-01 02:09:50 +0000",
+      "baked_potato": "2025-06-01 19:06:32 +0000",
       "apple": "2025-06-01 01:54:33 +0000",
       "golden_apple": "2025-06-01 02:04:44 +0000",
       "bread": "2025-06-01 02:58:14 +0000",
@@ -4624,6 +4627,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 19:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-06-01 18:32:25 +0000"
@@ -4633,6 +4642,12 @@
   "slashblade_addon:recipes/combat/slashblade_tofu_metal": {
     "criteria": {
       "has_slashblade_wood": "2025-06-01 18:19:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-01 19:04:03 +0000"
     },
     "done": true
   },
@@ -4765,6 +4780,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-01 18:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-01 19:07:58 +0000"
     },
     "done": true
   },
@@ -4987,6 +5008,12 @@
   "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
     "criteria": {
       "has_planks": "2025-06-01 18:19:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-01 19:04:03 +0000"
     },
     "done": true
   },

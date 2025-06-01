@@ -76,6 +76,7 @@
       "minecraft:forest": "2025-06-01 02:01:24 +0000",
       "minecraft:lush_caves": "2025-06-01 02:56:29 +0000",
       "minecraft:frozen_ocean": "2025-06-01 04:30:01 +0000",
+      "minecraft:desert": "2025-06-01 19:07:14 +0000",
       "minecraft:jungle": "2025-06-01 06:24:43 +0000",
       "minecraft:ocean": "2025-06-01 06:48:09 +0000",
       "minecraft:snowy_beach": "2025-06-01 04:34:25 +0000",
@@ -459,6 +460,7 @@
       "dune_beach": "2025-06-01 06:37:01 +0000",
       "seasonal_forest": "2025-06-01 06:44:21 +0000",
       "auroral_garden": "2025-06-01 02:51:59 +0000",
+      "volcano": "2025-06-01 19:05:38 +0000",
       "lavender_field": "2025-06-01 02:27:15 +0000",
       "grassland": "2025-06-01 02:32:22 +0000",
       "prairie": "2025-06-01 02:20:32 +0000",
@@ -4723,9 +4725,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-06-01 18:59:19 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/rodai_golden": {
     "criteria": {
       "has_slashblade_silverbamboo": "2025-06-01 18:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-01 18:52:12 +0000"
     },
     "done": true
   },
@@ -4753,15 +4767,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-01 18:55:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-01 18:45:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-01 18:55:37 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/rodai_wooden": {
     "criteria": {
       "has_slashblade_silverbamboo": "2025-06-01 18:19:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-01 18:52:12 +0000"
     },
     "done": true
   },
@@ -4783,9 +4815,21 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-06-01 18:58:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-01 18:29:16 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:defeat_boss": {
+    "criteria": {
+      "defeat_boss_0": "2025-06-01 18:50:32 +0000"
     },
     "done": true
   },
@@ -4867,6 +4911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-01 18:58:40 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/mahogany_sign": {
     "criteria": {
       "has_mahogany_planks": "2025-06-01 18:45:41 +0000"
@@ -4888,6 +4938,12 @@
   "slashblade:recipes/combat/slashblade_white": {
     "criteria": {
       "has_slashblade_wood": "2025-06-01 18:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-01 18:58:40 +0000"
     },
     "done": true
   },
@@ -4960,6 +5016,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-06-01 18:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-01 18:55:37 +0000"
     },
     "done": true
   },
