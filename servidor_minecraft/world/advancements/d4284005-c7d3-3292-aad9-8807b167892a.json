@@ -5381,6 +5381,12 @@
     },
     "done": true
   },
+  "the_bumblezone:tools/honey_compass_use": {
+    "criteria": {
+      "honey_compass": "2025-06-01 20:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-06-01 19:45:03 +0000"
@@ -5401,7 +5407,8 @@
   },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
-      "in_honey_slime_ranch": "2025-06-01 20:34:30 +0000"
+      "in_honey_slime_ranch": "2025-06-01 20:34:30 +0000",
+      "in_candle_parkour": "2025-06-01 20:41:46 +0000"
     },
     "done": false
   },
@@ -5690,6 +5697,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-06-01 19:57:26 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "craft_honey_compass": "2025-06-01 20:35:55 +0000"
     },
     "done": true
   },

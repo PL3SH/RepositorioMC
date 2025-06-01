@@ -5415,7 +5415,8 @@
   },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
-      "in_honey_slime_ranch": "2025-06-01 20:33:57 +0000"
+      "in_honey_slime_ranch": "2025-06-01 20:33:57 +0000",
+      "in_candle_parkour": "2025-06-01 20:41:47 +0000"
     },
     "done": false
   },
