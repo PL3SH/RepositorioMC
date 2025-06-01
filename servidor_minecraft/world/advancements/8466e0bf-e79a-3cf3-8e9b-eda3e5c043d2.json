@@ -55,8 +55,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-06-01 02:38:22 +0000",
       "minecraft:river": "2025-06-01 02:23:16 +0000",
+      "minecraft:lush_caves": "2025-06-01 02:44:02 +0000",
       "minecraft:flower_forest": "2025-06-01 01:54:19 +0000",
+      "minecraft:deep_dark": "2025-06-01 02:32:09 +0000",
       "minecraft:plains": "2025-06-01 01:50:04 +0000"
     },
     "done": false
@@ -72,6 +75,8 @@
       "shrubland": "2025-06-01 01:52:20 +0000",
       "scrubland": "2025-06-01 01:56:46 +0000",
       "old_growth_woodland": "2025-06-01 01:58:01 +0000",
+      "maple_woods": "2025-06-01 02:42:51 +0000",
+      "field": "2025-06-01 02:42:58 +0000",
       "spider_nest": "2025-06-01 02:03:22 +0000"
     },
     "done": false
@@ -1783,6 +1788,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-01 02:43:55 +0000",
+      "minecraft:spider": "2025-06-01 02:41:54 +0000",
       "minecraft:zombie": "2025-06-01 01:56:59 +0000"
     },
     "done": false
@@ -2081,9 +2088,27 @@
     },
     "done": true
   },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-06-01 02:42:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:42:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-06-01 02:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
     },
     "done": true
   },
@@ -2111,9 +2136,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2025-06-01 02:42:46 +0000"
     },
     "done": true
   },
@@ -2147,6 +2184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
@@ -2165,9 +2208,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-06-01 02:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
     },
     "done": true
   },
@@ -2207,6 +2262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
@@ -2216,6 +2277,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-01 02:17:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:42:46 +0000"
     },
     "done": true
   },
@@ -2279,6 +2346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
@@ -2300,6 +2373,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-01 02:42:09 +0000"
     },
     "done": true
   },
@@ -2342,6 +2421,18 @@
   "bakery:recipes/bread_knife": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-01 02:42:09 +0000"
     },
     "done": true
   },
@@ -2402,6 +2493,12 @@
   "fairylights:recipes/fairylights/orb_lantern": {
     "criteria": {
       "has_iron": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
     },
     "done": true
   },
@@ -2627,6 +2724,12 @@
     },
     "done": true
   },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-06-01 02:12:55 +0000"
@@ -2651,15 +2754,33 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/spearhead_pennant": {
+    "criteria": {
+      "has_string": "2025-06-01 02:42:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
     },
     "done": true
   },
@@ -2726,6 +2847,12 @@
   "vinery:recipes/big_table": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/swallowtail_pennant": {
+    "criteria": {
+      "has_string": "2025-06-01 02:42:09 +0000"
     },
     "done": true
   },
@@ -2933,6 +3060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-01 02:42:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2025-06-01 02:12:29 +0000"
@@ -2981,6 +3114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/candle_lantern_light": {
     "criteria": {
       "has_iron": "2025-06-01 02:12:28 +0000"
@@ -2999,6 +3138,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:42:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
@@ -3008,6 +3153,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-01 02:42:09 +0000"
     },
     "done": true
   },
@@ -3161,6 +3312,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:42:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-06-01 02:12:55 +0000"
@@ -3281,6 +3438,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:42:46 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/paper_lantern": {
     "criteria": {
       "has_iron": "2025-06-01 02:12:28 +0000"
@@ -3296,6 +3459,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-06-01 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/square_pennant": {
+    "criteria": {
+      "has_string": "2025-06-01 02:42:09 +0000"
     },
     "done": true
   },
@@ -3335,9 +3504,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-01 02:42:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-06-01 02:17:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-01 02:39:17 +0000"
     },
     "done": true
   },
@@ -3350,6 +3531,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-01 02:42:09 +0000"
     },
     "done": true
   },
@@ -3386,6 +3573,12 @@
   "fairylights:recipes/fairylights/skull_light": {
     "criteria": {
       "has_iron": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
     },
     "done": true
   },
@@ -3426,9 +3619,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-01 02:42:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-06-01 02:12:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:42:46 +0000"
     },
     "done": true
   },
@@ -3447,6 +3652,24 @@
   "bakery:recipes/stone_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/triangle_pennant": {
+    "criteria": {
+      "has_string": "2025-06-01 02:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 02:32:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-01 02:39:17 +0000"
     },
     "done": true
   },

@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/incandescent_light": {
+    "criteria": {
+      "has_torch": "2025-06-01 02:40:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
       "has_dark_oak_planks": "2025-06-01 02:27:46 +0000"
@@ -356,6 +362,12 @@
   "handcrafted:recipes/misc/salmon_trophy": {
     "criteria": {
       "has_salmon_trophy": "2025-06-01 02:27:46 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/oil_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-01 02:40:14 +0000"
     },
     "done": true
   },
@@ -774,6 +786,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/candle_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-01 02:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-06-01 02:20:26 +0000"
@@ -1026,9 +1044,14 @@
       "shrubland": "2025-06-01 01:55:52 +0000",
       "scrubland": "2025-06-01 02:17:00 +0000",
       "old_growth_woodland": "2025-06-01 02:17:24 +0000",
+      "coniferous_forest": "2025-06-01 02:44:37 +0000",
+      "seasonal_orchard": "2025-06-01 02:44:13 +0000",
+      "dune_beach": "2025-06-01 02:34:05 +0000",
       "volcano": "2025-06-01 02:25:22 +0000",
       "pasture": "2025-06-01 02:30:40 +0000",
       "volcanic_plains": "2025-06-01 02:18:43 +0000",
+      "lavender_field": "2025-06-01 02:43:02 +0000",
+      "fir_clearing": "2025-06-01 02:44:21 +0000",
       "prairie": "2025-06-01 02:15:33 +0000",
       "rainforest": "2025-06-01 02:18:26 +0000"
     },
@@ -1247,6 +1270,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-06-01 02:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-06-01 02:40:13 +0000"
     },
     "done": true
   },
@@ -1516,6 +1545,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-06-01 02:33:41 +0000",
       "minecraft:river": "2025-06-01 02:15:53 +0000",
       "minecraft:flower_forest": "2025-06-01 02:05:39 +0000",
       "minecraft:meadow": "2025-06-01 01:58:06 +0000",
