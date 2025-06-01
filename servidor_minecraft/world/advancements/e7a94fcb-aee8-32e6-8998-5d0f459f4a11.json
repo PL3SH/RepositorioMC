@@ -1,16 +1,4 @@
 {
-  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
-    "criteria": {
-      "has_pitcher_plant": "2025-06-01 01:33:10 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/cyan_dye_from_pitcher_plant": {
-    "criteria": {
-      "has_pitcher_plant": "2025-06-01 01:33:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-06-01 01:32:19 +0000"
@@ -35,21 +23,27 @@
     },
     "done": true
   },
-  "vinery:main/fruits_of_the_field": {
-    "criteria": {
-      "fruits_of_the_field": "2025-06-01 01:32:20 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:root": {
     "criteria": {
       "instant_granted": "2025-06-01 01:32:19 +0000"
     },
     "done": true
   },
-  "bakery:main/root": {
+  "cataclysm:root": {
     "criteria": {
-      "seeds": "2025-06-01 01:33:10 +0000"
+      "custom_test_name": "2025-06-01 01:32:19 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-06-01 01:32:19 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-06-01 01:32:20 +0000"
     },
     "done": true
   },
@@ -59,15 +53,35 @@
     },
     "done": false
   },
-  "slashblade:movesets": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "crafting": "2025-06-01 01:33:10 +0000"
+      "minecraft:flower_forest": "2025-06-01 01:35:54 +0000",
+      "minecraft:meadow": "2025-06-01 01:37:31 +0000",
+      "minecraft:plains": "2025-06-01 01:32:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-06-01 01:33:10 +0000"
     },
     "done": true
   },
-  "cataclysm:root": {
+  "refurbished_furniture:recipes/misc/slicing/cyan_dye_from_pitcher_plant": {
     "criteria": {
-      "custom_test_name": "2025-06-01 01:32:19 +0000"
+      "has_pitcher_plant": "2025-06-01 01:33:10 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2025-06-01 01:33:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade:movesets": {
+    "criteria": {
+      "crafting": "2025-06-01 01:33:10 +0000"
     },
     "done": true
   },
@@ -83,18 +97,77 @@
     },
     "done": true
   },
-  "the_bumblezone:wiki": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "instant_granted": "2025-06-01 01:32:19 +0000"
+      "shrubland": "2025-06-01 01:38:03 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "minecraft:flower_forest": "2025-06-01 01:35:54 +0000",
-      "minecraft:plains": "2025-06-01 01:32:20 +0000"
+      "shrubland": "2025-06-01 01:38:03 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-06-01 01:47:19 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2025-06-01 01:45:43 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-06-01 01:47:19 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-06-01 01:47:19 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-06-01 01:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-01 01:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-01 01:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-06-01 01:47:19 +0000"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2025-06-01 01:45:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-01 01:47:20 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
