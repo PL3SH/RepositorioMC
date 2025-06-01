@@ -3571,6 +3571,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-01 19:10:32 +0000",
       "minecraft:skeleton": "2025-06-01 02:55:58 +0000",
       "minecraft:spider": "2025-06-01 03:29:42 +0000",
       "minecraft:enderman": "2025-06-01 04:54:13 +0000",
@@ -4875,6 +4876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-01 19:16:38 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/combo_a": {
     "criteria": {
       "customtrigger": "2025-06-01 18:15:28 +0000"
@@ -4884,6 +4891,18 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-06-01 18:19:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-01 19:16:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-01 19:17:55 +0000"
     },
     "done": true
   },
@@ -4995,9 +5014,21 @@
     },
     "done": true
   },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2025-06-01 19:16:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-06-01 18:19:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-01 19:17:32 +0000"
     },
     "done": true
   },

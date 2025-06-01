@@ -4475,6 +4475,12 @@
     },
     "done": true
   },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-06-01 19:16:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-06-01 18:52:54 +0000"
@@ -4484,6 +4490,12 @@
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_diorite_pillar_trim": "2025-06-01 18:52:54 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-06-01 19:10:41 +0000"
     },
     "done": true
   },
@@ -4502,6 +4514,18 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-06-01 18:52:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-06-01 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-06-01 19:16:21 +0000"
     },
     "done": true
   },
