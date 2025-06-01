@@ -57,6 +57,7 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-06-01 01:44:05 +0000",
       "minecraft:stony_peaks": "2025-06-01 01:44:09 +0000",
+      "minecraft:forest": "2025-06-01 01:50:10 +0000",
       "minecraft:flower_forest": "2025-06-01 01:35:29 +0000",
       "minecraft:meadow": "2025-06-01 01:37:51 +0000",
       "minecraft:savanna": "2025-06-01 01:43:58 +0000",
@@ -204,6 +205,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-06-01 01:50:20 +0000",
       "shrubland": "2025-06-01 01:36:52 +0000"
     },
     "done": false
@@ -1151,6 +1153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/incandescent_light": {
     "criteria": {
       "has_iron": "2025-06-01 01:45:35 +0000"
@@ -1178,6 +1186,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
     },
     "done": true
   },
@@ -1223,6 +1237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 01:45:35 +0000"
@@ -1238,6 +1258,18 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
     },
     "done": true
   },
@@ -1274,6 +1306,12 @@
   "handcrafted:recipes/misc/hammer": {
     "criteria": {
       "has_hammer": "2025-06-01 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
     },
     "done": true
   },
@@ -1340,6 +1378,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
     },
     "done": true
   },
@@ -1427,6 +1471,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 01:45:35 +0000"
@@ -1484,6 +1534,12 @@
   "fairylights:recipes/fairylights/orb_lantern": {
     "criteria": {
       "has_iron": "2025-06-01 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
     },
     "done": true
   },
@@ -1649,6 +1705,12 @@
     },
     "done": true
   },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/fairy_light": {
     "criteria": {
       "has_iron": "2025-06-01 01:45:35 +0000"
@@ -1673,9 +1735,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
     },
     "done": true
   },
@@ -1859,6 +1933,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-01 01:48:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 01:45:35 +0000"
@@ -1886,6 +1966,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-01 01:48:55 +0000"
     },
     "done": true
   },
@@ -1958,6 +2044,12 @@
   "fairylights:recipes/fairylights/moon_light": {
     "criteria": {
       "has_iron": "2025-06-01 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
     },
     "done": true
   },
@@ -2393,6 +2485,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-01 01:48:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-06-01 01:44:25 +0000"
@@ -2408,6 +2506,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-06-01 01:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
     },
     "done": true
   },
@@ -2474,6 +2578,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-01 01:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-01 01:49:05 +0000"
     },
     "done": true
   },
