@@ -6171,5 +6171,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-06-02 00:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-02 00:02:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
