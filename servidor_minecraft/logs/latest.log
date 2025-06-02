@@ -263,3 +263,23 @@
 [02Jun2025 01:47:27.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 left the game
 [02Jun2025 01:50:04.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dogepreo lost connection: Disconnected
 [02Jun2025 01:50:04.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo left the game
+[02Jun2025 02:44:48.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Jun2025 02:44:49.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jun2025 02:44:49.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jun2025 02:44:49.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jun2025 02:44:49.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jun2025 02:44:49.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jun2025 02:44:49.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[02Jun2025 02:44:49.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jun2025 02:44:49.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[02Jun2025 02:44:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jun2025 02:44:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jun2025 02:44:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[02Jun2025 02:44:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jun2025 02:44:49.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[02Jun2025 02:44:49.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Jun2025 02:44:49.708] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Jun2025 02:44:49.709] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[02Jun2025 02:44:49.713] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[02Jun2025 02:44:49.713] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[02Jun2025 02:44:49.714] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
