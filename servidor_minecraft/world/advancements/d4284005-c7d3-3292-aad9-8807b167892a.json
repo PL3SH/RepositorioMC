@@ -5870,15 +5870,15 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
-    "criteria": {
-      "requirement": "2025-06-01 22:15:56 +0000"
-    },
-    "done": true
-  },
   "aquamirae:adventure/obtain_rune_of_the_storm": {
     "criteria": {
       "rune_of_the_storm": "2025-06-01 22:12:19 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-06-01 22:15:56 +0000"
     },
     "done": true
   },

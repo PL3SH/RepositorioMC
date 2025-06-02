@@ -720,3 +720,50 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [02Jun2025 04:54:56.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3086ms or 61 ticks behind
 [02Jun2025 04:58:25.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dogepreo[/127.122.50.165:59111] logged in with entity id 1284 at (1181.4180656087108, 63.0, -1245.1726048325113)
 [02Jun2025 04:58:25.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo joined the game
+[02Jun2025 05:04:22.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomate_Lover[/127.214.98.41:40465] logged in with entity id 2169 at (179.0663722881742, 87.0, 45.23478504057555)
+[02Jun2025 05:04:22.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover joined the game
+[02Jun2025 05:05:00.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate_Lover> ola
+[02Jun2025 05:05:04.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> ola
+[02Jun2025 05:05:05.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> ven
+[02Jun2025 05:05:10.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[02Jun2025 05:05:17.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> ds
+[02Jun2025 05:05:19.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> zorritra
+[02Jun2025 05:05:21.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate_Lover> ya va
+[02Jun2025 05:05:22.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> zorrita
+[02Jun2025 05:05:34.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate_Lover> q es esto?
+[02Jun2025 05:05:41.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> k cosa
+[02Jun2025 05:06:06.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> hermano te hago mrda
+[02Jun2025 05:06:09.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> no sabes lo q tengo
+[02Jun2025 05:06:30.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate_Lover> momento le ayudo a configrar algo a juan
+[02Jun2025 05:07:04.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> mira
+[02Jun2025 05:07:34.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> xD
+[02Jun2025 05:07:35.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover was consumed by dogepreo's flames
+[02Jun2025 05:07:38.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> NOOOO}
+[02Jun2025 05:07:41.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> TOMATE
+[02Jun2025 05:07:41.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to dogepreo]
+[02Jun2025 05:07:43.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheRoierP[/127.33.146.243:51493] logged in with entity id 3793 at (171.5, 97.0, 19.5)
+[02Jun2025 05:07:43.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP joined the game
+[02Jun2025 05:07:44.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Fruits of the Field]
+[02Jun2025 05:07:51.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> Es un muro
+[02Jun2025 05:07:53.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> mira
+[02Jun2025 05:07:55.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate_Lover> mis niveles xd
+[02Jun2025 05:08:10.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> y mira
+[02Jun2025 05:08:14.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> xD
+[02Jun2025 05:08:19.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate_Lover> momento hpt
+[02Jun2025 05:08:23.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> te hago mrda te lo juro
+[02Jun2025 05:08:36.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> mira atencion
+[02Jun2025 05:09:09.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=181, y=94, z=16}
+[02Jun2025 05:09:09.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported TheRoierP to Tomate_Lover]
+[02Jun2025 05:09:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> ya tengo poder de perla de ender no las necesito ams
+[02Jun2025 05:09:32.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Tiny Proud Soul]
+[02Jun2025 05:09:32.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Blade MoveSets]
+[02Jun2025 05:09:32.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Slash Blade]
+[02Jun2025 05:09:34.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Suit Up]
+[02Jun2025 05:09:43.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> tomate
+[02Jun2025 05:09:54.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Noted -Silver Bamboo Light-]
+[02Jun2025 05:10:02.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Blade Arts -Combo A-              ]
+[02Jun2025 05:12:18.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Abilities -Kick Jump-            ]
+[02Jun2025 05:12:53.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Blade Arts -Aerial Rave A-       ]
+[02Jun2025 05:12:58.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Blade Arts -Aerial Rave B-       ]
+[02Jun2025 05:13:01.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Abilities -Enemy Step-           ]
+[02Jun2025 05:13:03.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheRoierP has made the advancement [Monster Hunter]
