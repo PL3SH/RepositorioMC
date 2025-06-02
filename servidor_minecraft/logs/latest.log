@@ -712,3 +712,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [02Jun2025 21:26:56.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pl3sh[/127.38.58.20:42663] logged in with entity id 469 at (3057.8252200165, 85.0, -4561.165634052765)
 [02Jun2025 21:26:56.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh joined the game
 [02Jun2025 21:27:28.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pl3sh> hola
+[02Jun2025 21:30:43.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dogepreo[/127.122.50.165:38347] logged in with entity id 1340 at (1181.1124064700473, 65.0, -1249.015770186844)
+[02Jun2025 21:30:43.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo joined the game
+[02Jun2025 21:31:07.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dogepreo lost connection: Disconnected
+[02Jun2025 21:31:07.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo left the game
+[02Jun2025 21:32:56.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dogepreo[/127.122.50.165:49801] logged in with entity id 2958 at (1181.1124064700473, 65.0, -1249.015770186844)
+[02Jun2025 21:32:56.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo joined the game
+[02Jun2025 21:35:23.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomate_Lover[/127.214.98.41:46973] logged in with entity id 4350 at (1179.553849327409, 63.0, -1245.6567968215588)
+[02Jun2025 21:35:23.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover joined the game
+[02Jun2025 21:36:24.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lunita_Eg[/127.38.194.222:45467] logged in with entity id 5038 at (4839.422770754366, 0.0, -6381.331493295577)
+[02Jun2025 21:36:25.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lunita_Eg joined the game
+[02Jun2025 21:39:15.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported dogepreo to pl3sh]
+[02Jun2025 21:39:20.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to pl3sh]
+[02Jun2025 21:41:14.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh has made the advancement [Cover Me with Diamonds]
+[02Jun2025 21:42:51.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set Lunita_Eg's game mode to Creative Mode]
+[02Jun2025 21:43:24.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02Jun2025 21:43:42.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomate_Lover lost connection: Disconnected
+[02Jun2025 21:43:42.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover left the game
+[02Jun2025 21:45:05.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02Jun2025 21:46:51.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lunita_Eg has made the advancement [Alex's Caves]
+[02Jun2025 21:47:47.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pl3sh has made the advancement [Ol' Betsy]
+[02Jun2025 21:48:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lunita_Eg has made the advancement [Once Upon a Cave]
+[02Jun2025 21:49:36.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lunita_Eg has made the advancement [It Belongs in a Museum]
