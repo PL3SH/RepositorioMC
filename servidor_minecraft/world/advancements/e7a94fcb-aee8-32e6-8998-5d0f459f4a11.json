@@ -6877,6 +6877,12 @@
     },
     "done": true
   },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-06-02 05:55:50 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:candles/obtain_all_colored_super_candles": {
     "criteria": {
       "super_candle": "2025-06-02 05:37:55 +0000"
@@ -6889,6 +6895,12 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-06-02 05:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-06-02 05:04:03 +0000"
@@ -6898,6 +6910,12 @@
   "the_bumblezone:honey_crystal/consume_honey_crystal_shards": {
     "criteria": {
       "consume_honey_crystal_shards": "2025-06-02 05:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-02 05:53:18 +0000"
     },
     "done": true
   },
@@ -6943,6 +6961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-02 05:53:18 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:effects/getting_protection": {
     "criteria": {
       "getting_protection": "2025-06-02 05:51:08 +0000"
@@ -6952,6 +6976,12 @@
   "vinery:main/cherry_picker": {
     "criteria": {
       "cherry": "2025-06-02 05:44:09 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-06-02 05:56:43 +0000"
     },
     "done": true
   },

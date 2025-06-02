@@ -4974,6 +4974,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-06-02 06:02:55 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/spruce_wine_rack_big": {
     "criteria": {
       "has_spruce_planks": "2025-06-02 05:51:57 +0000"
@@ -5064,6 +5070,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-06-02 06:02:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_glass": "2025-06-02 05:06:05 +0000"
@@ -5139,6 +5151,12 @@
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-06-02 05:51:21 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-06-02 06:00:26 +0000"
     },
     "done": true
   },
@@ -5286,6 +5304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-02 06:02:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-06-02 04:57:02 +0000"
@@ -5301,6 +5325,12 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-06-02 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-06-02 06:03:14 +0000"
     },
     "done": true
   },
@@ -5358,6 +5388,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-06-02 05:56:00 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/stackable_log": {
     "criteria": {
       "has_oak_log": "2025-06-02 05:45:40 +0000"
@@ -5406,9 +5442,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-02 06:00:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-02 06:02:55 +0000"
     },
     "done": true
   },
@@ -5427,6 +5475,12 @@
   "handcrafted:recipes/misc/cherry_corner_trim": {
     "criteria": {
       "has_cherry_corner_trim": "2025-06-02 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-02 05:56:00 +0000"
     },
     "done": true
   },
@@ -5478,9 +5532,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-02 06:00:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-02 05:06:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-06-02 06:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-02 06:00:29 +0000"
+    },
+    "done": true
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-06-02 06:02:55 +0000"
     },
     "done": true
   },
@@ -5493,6 +5571,12 @@
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-02 06:02:55 +0000"
     },
     "done": true
   },
@@ -5646,6 +5730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-02 06:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-02 05:06:20 +0000"
@@ -5790,6 +5880,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-06-02 05:56:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_pillar_trim": {
     "criteria": {
       "has_cherry_pillar_trim": "2025-06-02 05:07:37 +0000"
@@ -5829,6 +5925,12 @@
   "handcrafted:recipes/misc/cherry_table": {
     "criteria": {
       "has_cherry_table": "2025-06-02 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-06-02 05:56:00 +0000"
     },
     "done": true
   },

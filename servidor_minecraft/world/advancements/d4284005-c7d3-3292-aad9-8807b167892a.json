@@ -613,6 +613,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2025-06-02 05:53:18 +0000",
       "sweet_berries": "2025-06-01 03:28:07 +0000",
       "cooked_beef": "2025-06-01 02:53:33 +0000",
       "beef": "2025-06-01 22:15:27 +0000",
@@ -5908,6 +5909,12 @@
     },
     "done": true
   },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-06-02 06:02:12 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:structures/enter_cell_maze": {
     "criteria": {
       "in_cell_maze": "2025-06-02 05:48:22 +0000"
@@ -5929,6 +5936,12 @@
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2025-06-02 05:33:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-06-02 05:57:22 +0000"
     },
     "done": true
   },
@@ -5998,6 +6011,12 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-06-02 05:57:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-02 05:33:58 +0000"
@@ -6019,6 +6038,12 @@
   "handcrafted:recipes/misc/spruce_corner_trim": {
     "criteria": {
       "has_spruce_corner_trim": "2025-06-02 05:33:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/protection_of_the_hive_defense": {
+    "criteria": {
+      "protection_of_the_hive_defense": "2025-06-02 05:59:03 +0000"
     },
     "done": true
   },
@@ -6103,6 +6128,12 @@
   "handcrafted:recipes/misc/spruce_bench": {
     "criteria": {
       "has_spruce_bench": "2025-06-02 05:33:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_sticky_honey_residue": {
+    "criteria": {
+      "obtain_sticky_honey_redstone": "2025-06-02 05:57:14 +0000"
     },
     "done": true
   },
