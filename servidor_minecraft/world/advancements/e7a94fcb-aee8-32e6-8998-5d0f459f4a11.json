@@ -6865,39 +6865,9 @@
     },
     "done": true
   },
-  "the_bumblezone:effects/honey_permission": {
-    "criteria": {
-      "honey_permission": "2025-06-02 05:51:09 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:structures/enter_cell_maze": {
-    "criteria": {
-      "in_cell_maze": "2025-06-02 05:48:18 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
-    "criteria": {
-      "obtain_stinger_spear": "2025-06-02 05:55:50 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:candles/obtain_all_colored_super_candles": {
-    "criteria": {
-      "super_candle": "2025-06-02 05:37:55 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-02 05:04:03 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
-    "criteria": {
-      "obtain_honey_crystal_shield": "2025-06-02 05:57:18 +0000"
     },
     "done": true
   },
@@ -6907,21 +6877,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-02 05:04:03 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_wood": {
+    "criteria": {
+      "has_cherry_wood": "2025-06-02 05:24:56 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:honey_crystal/consume_honey_crystal_shards": {
     "criteria": {
       "consume_honey_crystal_shards": "2025-06-02 05:34:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-06-02 05:53:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2025-06-02 05:51:08 +0000"
     },
     "done": true
   },
@@ -6931,15 +6901,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+  "the_bumblezone:candles/obtain_all_colored_super_candles": {
     "criteria": {
-      "has_log": "2025-06-02 05:04:03 +0000"
+      "super_candle": "2025-06-02 05:37:55 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/cherry_picker": {
+    "criteria": {
+      "cherry": "2025-06-02 05:44:09 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_cell_maze": {
+    "criteria": {
+      "in_cell_maze": "2025-06-02 05:48:18 +0000"
     },
     "done": true
   },
   "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
     "criteria": {
       "bee_hit_wrath_of_the_hive": "2025-06-02 05:48:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-02 05:51:08 +0000"
     },
     "done": true
   },
@@ -6955,9 +6943,21 @@
     },
     "done": true
   },
-  "vinery:recipes/dark_cherry_wood": {
+  "the_bumblezone:effects/getting_protection": {
     "criteria": {
-      "has_cherry_wood": "2025-06-02 05:24:56 +0000"
+      "getting_protection": "2025-06-02 05:51:08 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/honey_permission": {
+    "criteria": {
+      "honey_permission": "2025-06-02 05:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-02 05:53:18 +0000"
     },
     "done": true
   },
@@ -6967,21 +6967,27 @@
     },
     "done": true
   },
-  "the_bumblezone:effects/getting_protection": {
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
     "criteria": {
-      "getting_protection": "2025-06-02 05:51:08 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/cherry_picker": {
-    "criteria": {
-      "cherry": "2025-06-02 05:44:09 +0000"
+      "obtain_stinger_spear": "2025-06-02 05:55:50 +0000"
     },
     "done": true
   },
   "the_bumblezone:tools/craft_honey_compass": {
     "criteria": {
       "obtain_honey_compass": "2025-06-02 05:56:43 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-06-02 05:57:18 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/stinger_spear_poisoning": {
+    "criteria": {
+      "stinger_spear_poisoning": "2025-06-02 06:05:46 +0000"
     },
     "done": true
   },

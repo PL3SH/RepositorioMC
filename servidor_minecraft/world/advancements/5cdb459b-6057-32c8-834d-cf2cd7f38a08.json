@@ -5130,6 +5130,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-06-02 06:08:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-06-02 05:51:57 +0000"
@@ -5658,6 +5664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-06-02 06:08:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cherry_cabinet": {
     "criteria": {
       "has_cherry_trapdoor": "2025-06-02 05:39:58 +0000"
@@ -5751,6 +5763,12 @@
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2025-06-02 06:08:18 +0000"
     },
     "done": true
   },
