@@ -56,6 +56,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-06-01 22:12:37 +0000",
+      "minecraft:dripstone_caves": "2025-06-02 00:57:19 +0000",
       "minecraft:forest": "2025-06-01 23:02:28 +0000",
       "minecraft:flower_forest": "2025-06-01 21:58:33 +0000",
       "minecraft:meadow": "2025-06-01 22:36:15 +0000",
@@ -2691,6 +2692,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-02 00:57:58 +0000",
       "minecraft:spider": "2025-06-01 22:19:02 +0000",
       "minecraft:zombie": "2025-06-01 23:03:12 +0000"
     },
@@ -2722,6 +2724,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-06-02 00:53:25 +0000",
+      "apple": "2025-06-02 00:56:39 +0000",
       "bread": "2025-06-01 22:19:14 +0000"
     },
     "done": false
@@ -3068,6 +3072,30 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 23:04:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-01 23:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-06-01 23:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-01 23:05:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-01 23:07:50 +0000"
@@ -3080,33 +3108,9 @@
     },
     "done": true
   },
-  "vinery:recipes/dirt_slab": {
-    "criteria": {
-      "has_dirt": "2025-06-01 23:08:22 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-01 23:07:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dog_food": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-01 23:04:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-06-01 23:05:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-06-01 23:04:45 +0000"
     },
     "done": true
   },
@@ -3146,9 +3150,39 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+  "vinery:recipes/dirt_slab": {
     "criteria": {
-      "has_rotten_flesh": "2025-06-01 23:04:32 +0000"
+      "has_dirt": "2025-06-01 23:08:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2025-06-02 00:58:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-06-02 00:53:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-06-02 00:53:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-06-02 00:58:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-06-02 00:53:21 +0000"
     },
     "done": true
   },
