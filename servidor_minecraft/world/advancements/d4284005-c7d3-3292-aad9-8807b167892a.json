@@ -6221,5 +6221,11 @@
     },
     "done": true
   },
+  "vinery:main/cherry_picker": {
+    "criteria": {
+      "cherry": "2025-06-02 06:26:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
