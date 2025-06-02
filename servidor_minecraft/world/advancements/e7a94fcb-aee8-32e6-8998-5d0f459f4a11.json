@@ -49,6 +49,7 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "crystal_canyon": "2025-06-02 05:32:59 +0000",
       "sugar_water_floor": "2025-06-01 20:19:54 +0000",
       "hive_pillar": "2025-06-01 20:19:24 +0000",
       "hive_wall": "2025-06-01 20:32:38 +0000",
@@ -5723,7 +5724,8 @@
     "criteria": {
       "in_honey_slime_ranch": "2025-06-01 20:33:57 +0000",
       "in_candle_parkour": "2025-06-01 20:41:47 +0000",
-      "in_throne_pillar": "2025-06-01 20:52:58 +0000"
+      "in_throne_pillar": "2025-06-01 20:52:58 +0000",
+      "in_ice_monolith": "2025-06-02 05:34:02 +0000"
     },
     "done": false
   },
@@ -6861,6 +6863,12 @@
     },
     "done": true
   },
+  "the_bumblezone:candles/obtain_all_colored_super_candles": {
+    "criteria": {
+      "super_candle": "2025-06-02 05:37:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-02 05:04:03 +0000"
@@ -6870,6 +6878,18 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-06-02 05:04:03 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/consume_honey_crystal_shards": {
+    "criteria": {
+      "consume_honey_crystal_shards": "2025-06-02 05:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-02 05:37:54 +0000"
     },
     "done": true
   },
