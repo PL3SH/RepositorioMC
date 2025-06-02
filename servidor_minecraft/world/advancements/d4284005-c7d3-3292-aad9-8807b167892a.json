@@ -5891,33 +5891,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-06-02 05:12:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2025-06-02 05:15:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_counter": {
     "criteria": {
       "has_spruce_counter": "2025-06-02 05:33:58 +0000"
     },
     "done": true
   },
-  "the_bumblezone:effects/honey_permission": {
-    "criteria": {
-      "honey_permission": "2025-06-02 05:51:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2025-06-02 05:33:58 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
-    "criteria": {
-      "strong_hidden": "2025-06-02 06:02:12 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:structures/enter_cell_maze": {
-    "criteria": {
-      "in_cell_maze": "2025-06-02 05:48:22 +0000"
     },
     "done": true
   },
@@ -5936,18 +5930,6 @@
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2025-06-02 05:33:58 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
-    "criteria": {
-      "obtain_stinger_spear": "2025-06-02 05:57:22 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
-    "criteria": {
-      "has_flower": "2025-06-02 05:15:40 +0000"
     },
     "done": true
   },
@@ -6011,12 +5993,6 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
-    "criteria": {
-      "obtain_honey_crystal_shield": "2025-06-02 05:57:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-02 05:33:58 +0000"
@@ -6041,12 +6017,6 @@
     },
     "done": true
   },
-  "the_bumblezone:effects/protection_of_the_hive_defense": {
-    "criteria": {
-      "protection_of_the_hive_defense": "2025-06-02 05:59:03 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_desk": {
     "criteria": {
       "has_spruce_desk": "2025-06-02 05:33:58 +0000"
@@ -6059,39 +6029,9 @@
     },
     "done": true
   },
-  "the_bumblezone:tools/obtain_throne_honey_compass": {
-    "criteria": {
-      "obtain_throne_honey_compass": "2025-06-02 05:48:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2025-06-02 05:51:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-06-02 05:33:58 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/food_removed_wrath_of_the_hive": {
-    "criteria": {
-      "food_removed_wrath_of_the_hive": "2025-06-02 05:51:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-06-02 05:51:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-06-02 05:51:17 +0000"
     },
     "done": true
   },
@@ -6104,12 +6044,6 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-06-02 05:33:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/honey_block_slide": {
-    "criteria": {
-      "honey_block_slide": "2025-06-02 05:45:20 +0000"
     },
     "done": true
   },
@@ -6131,21 +6065,9 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal/obtain_sticky_honey_residue": {
-    "criteria": {
-      "obtain_sticky_honey_redstone": "2025-06-02 05:57:14 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-06-02 05:33:58 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/getting_protection": {
-    "criteria": {
-      "getting_protection": "2025-06-02 05:51:20 +0000"
     },
     "done": true
   },
@@ -6209,15 +6131,93 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
-    "criteria": {
-      "has_flower": "2025-06-02 05:12:16 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
       "has_spruce_side_table": "2025-06-02 05:33:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-06-02 05:45:20 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_cell_maze": {
+    "criteria": {
+      "in_cell_maze": "2025-06-02 05:48:22 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/obtain_throne_honey_compass": {
+    "criteria": {
+      "obtain_throne_honey_compass": "2025-06-02 05:48:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-02 05:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-02 05:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-02 05:51:17 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/getting_protection": {
+    "criteria": {
+      "getting_protection": "2025-06-02 05:51:20 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/honey_permission": {
+    "criteria": {
+      "honey_permission": "2025-06-02 05:51:27 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/food_removed_wrath_of_the_hive": {
+    "criteria": {
+      "food_removed_wrath_of_the_hive": "2025-06-02 05:51:38 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_sticky_honey_residue": {
+    "criteria": {
+      "obtain_sticky_honey_redstone": "2025-06-02 05:57:14 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-06-02 05:57:22 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-06-02 05:57:49 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/protection_of_the_hive_defense": {
+    "criteria": {
+      "protection_of_the_hive_defense": "2025-06-02 05:59:03 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-06-02 06:02:12 +0000"
     },
     "done": true
   },

@@ -1055,3 +1055,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [02Jun2025 06:14:25.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> ve a mimir
 [02Jun2025 06:15:01.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> te ayudo en algo?
 [02Jun2025 06:15:11.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> mm
+[02Jun2025 06:15:20.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> o hago mis cosas de magia?
+[02Jun2025 06:15:20.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> nu wa poner unas escaleras y ya wa dormir igual
+[02Jun2025 06:15:42.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> mañana ya no hay vicio
+[02Jun2025 06:15:47.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> por?
+[02Jun2025 06:16:21.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomate_Lover[/127.214.98.41:49705] logged in with entity id 38239 at (1114.3044272622424, 92.0, -1299.6099991678598)
+[02Jun2025 06:16:21.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover joined the game
+[02Jun2025 06:16:24.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has reached the goal [New Age Librarian]
+[02Jun2025 06:16:52.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set the weather to rain & thunder]
+[02Jun2025 06:16:57.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set the time to 13000]
+[02Jun2025 06:17:00.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set own game mode to Survival Mode]
+[02Jun2025 06:17:35.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set own game mode to Spectator Mode]
+[02Jun2025 06:17:41.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dogepreo lost connection: Disconnected
+[02Jun2025 06:17:41.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo left the game
+[02Jun2025 06:18:08.271] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dogepreo[/127.122.50.165:43971] logged in with entity id 38798 at (1171.1741174176905, 66.0, -1255.0277421519502)
+[02Jun2025 06:18:08.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo joined the game
+[02Jun2025 06:18:25.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 hit the ground too hard
+[02Jun2025 06:18:38.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dogepreo lost connection: Disconnected
+[02Jun2025 06:18:38.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo left the game
+[02Jun2025 06:18:58.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexaa0310 lost connection: Disconnected
+[02Jun2025 06:18:58.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 left the game
+[02Jun2025 06:19:17.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexaa0310[/127.203.229.235:47611] logged in with entity id 39669 at (1192.4249226365632, 63.0, -1265.1560936023775)
+[02Jun2025 06:19:17.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 joined the game
+[02Jun2025 06:19:22.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 was slain by Revenant
+[02Jun2025 06:19:37.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Jun2025 06:19:37.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: difficult peaceful<--[HERE]
+[02Jun2025 06:19:37.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 was slain by Ghoul
+[02Jun2025 06:19:59.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexaa0310 lost connection: Disconnected
+[02Jun2025 06:19:59.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 left the game
+[02Jun2025 06:20:22.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: The difficulty has been set to Peaceful]
+[02Jun2025 06:20:28.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: The difficulty has been set to Hard]
+[02Jun2025 06:20:31.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set own game mode to Survival Mode]
+[02Jun2025 06:20:43.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexaa0310[/127.203.229.235:35757] logged in with entity id 40325 at (1196.41509015522, 63.0, -1264.3230503194761)
+[02Jun2025 06:20:43.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 joined the game
+[02Jun2025 06:20:50.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dogepreo[/127.122.50.165:55439] logged in with entity id 40353 at (1207.8090027562894, 64.0, -1243.5297734929907)
+[02Jun2025 06:20:50.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo joined the game
+[02Jun2025 06:22:25.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set own game mode to Creative Mode]
+[02Jun2025 06:24:20.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set own game mode to Survival Mode]
+[02Jun2025 06:25:22.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set own game mode to Creative Mode]
