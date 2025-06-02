@@ -4281,12 +4281,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-06-02 00:17:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-06-02 00:16:43 +0000"
@@ -4299,15 +4293,21 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_sunflower": {
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-06-02 00:17:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_banner": {
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_sunflower": {
     "criteria": {
-      "has_light_gray_wool": "2025-06-02 00:16:43 +0000"
+      "has_sunflower": "2025-06-02 00:17:19 +0000"
     },
     "done": true
   },
