@@ -3505,6 +3505,18 @@
     },
     "done": true
   },
+  "the_bumblezone:structures/enter_cell_maze": {
+    "criteria": {
+      "in_cell_maze": "2025-06-02 05:50:36 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_cell_maze": "2025-06-02 05:50:36 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-02 05:35:07 +0000"
@@ -3619,6 +3631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-06-02 05:50:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-02 05:29:22 +0000"
@@ -3715,6 +3733,12 @@
     },
     "done": true
   },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-06-02 05:41:49 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/combo_c": {
     "criteria": {
       "customtrigger": "2025-06-02 05:34:12 +0000"
@@ -3781,6 +3805,12 @@
     },
     "done": true
   },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-06-02 05:41:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-06-02 05:32:53 +0000"
@@ -3816,6 +3846,13 @@
       "has_cobbled_deepslate": "2025-06-02 05:29:22 +0000"
     },
     "done": true
+  },
+  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
+    "criteria": {
+      "carve_wax_2": "2025-06-02 05:45:00 +0000",
+      "carve_wax_3": "2025-06-02 05:45:00 +0000"
+    },
+    "done": false
   },
   "slashblade:arts/aerial_b": {
     "criteria": {

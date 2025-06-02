@@ -253,6 +253,7 @@
       "cooked_mutton": "2025-06-01 02:48:00 +0000",
       "sweet_berries": "2025-06-01 02:56:18 +0000",
       "cooked_beef": "2025-06-01 02:08:23 +0000",
+      "apple": "2025-06-02 05:48:50 +0000",
       "potato": "2025-06-01 03:14:32 +0000",
       "bread": "2025-06-01 02:00:40 +0000",
       "cooked_rabbit": "2025-06-01 02:27:17 +0000"
@@ -4907,9 +4908,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-02 05:06:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-02 05:51:57 +0000"
     },
     "done": true
   },
@@ -4922,6 +4935,12 @@
   "handcrafted:recipes/misc/cherry_cupboard": {
     "criteria": {
       "has_cherry_cupboard": "2025-06-02 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/warped": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
     },
     "done": true
   },
@@ -4955,6 +4974,12 @@
     },
     "done": true
   },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-06-02 05:07:37 +0000"
@@ -4970,6 +4995,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
     "criteria": {
       "has_cherry_planks": "2025-06-02 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-06-02 05:51:57 +0000"
     },
     "done": true
   },
@@ -5003,9 +5034,33 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/dark_prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_glass": "2025-06-02 05:06:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2025-06-02 05:45:40 +0000"
     },
     "done": true
   },
@@ -5021,9 +5076,27 @@
     },
     "done": true
   },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
     "criteria": {
       "has_glass": "2025-06-02 05:06:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-02 05:51:57 +0000"
     },
     "done": true
   },
@@ -5033,9 +5106,27 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-02 05:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-02 05:51:57 +0000"
     },
     "done": true
   },
@@ -5045,9 +5136,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-06-02 05:51:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
     "criteria": {
       "has_cherry_planks": "2025-06-02 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-06-02 05:51:57 +0000"
     },
     "done": true
   },
@@ -5063,9 +5172,21 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-06-02 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-02 05:51:57 +0000"
     },
     "done": true
   },
@@ -5087,9 +5208,21 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-06-02 05:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-02 05:06:05 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
     },
     "done": true
   },
@@ -5117,6 +5250,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_floorboard": {
     "criteria": {
       "has_cherry_wood": "2025-06-02 05:28:42 +0000"
@@ -5135,15 +5280,57 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-06-02 04:57:02 +0000"
     },
     "done": true
   },
+  "mcwwindows:recipes/crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-06-02 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/deepslate": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
     },
     "done": true
   },
@@ -5171,6 +5358,12 @@
     },
     "done": true
   },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-02 05:06:05 +0000"
@@ -5180,6 +5373,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-02 05:06:05 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-06-02 05:45:40 +0000"
     },
     "done": true
   },
@@ -5207,9 +5406,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-06-02 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
     },
     "done": true
   },
@@ -5255,6 +5466,18 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-02 05:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-02 05:06:20 +0000"
@@ -5264,6 +5487,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-02 05:06:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-06-02 05:51:57 +0000"
     },
     "done": true
   },
@@ -5291,9 +5520,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_door": {
     "criteria": {
       "has_cherry_planks": "2025-06-02 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-02 05:51:57 +0000"
     },
     "done": true
   },
@@ -5303,9 +5544,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-02 05:50:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_wood": {
     "criteria": {
       "has_cherry_wood": "2025-06-02 05:25:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2025-06-02 05:45:40 +0000"
     },
     "done": true
   },
@@ -5333,6 +5592,24 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/granite": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-06-02 05:06:05 +0000"
@@ -5348,6 +5625,12 @@
   "handcrafted:recipes/misc/cherry_chair": {
     "criteria": {
       "has_cherry_chair": "2025-06-02 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mangrove": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
     },
     "done": true
   },
@@ -5369,6 +5652,18 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/red_sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_slab": {
     "criteria": {
       "has_cherry_planks": "2025-06-02 05:28:42 +0000"
@@ -5378,6 +5673,30 @@
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2025-06-02 05:06:05 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/cherry_picker": {
+    "criteria": {
+      "cherry": "2025-06-02 05:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-02 05:51:57 +0000"
     },
     "done": true
   },
@@ -5393,9 +5712,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-02 05:06:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-02 05:51:57 +0000"
     },
     "done": true
   },
@@ -5423,15 +5760,45 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_shelf": {
     "criteria": {
       "has_cherry_shelf": "2025-06-02 05:07:37 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_pillar_trim": {
     "criteria": {
       "has_cherry_pillar_trim": "2025-06-02 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:45:40 +0000"
     },
     "done": true
   },
@@ -5447,9 +5814,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-02 05:51:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_table": {
     "criteria": {
       "has_cherry_table": "2025-06-02 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-06-02 05:51:57 +0000"
     },
     "done": true
   },

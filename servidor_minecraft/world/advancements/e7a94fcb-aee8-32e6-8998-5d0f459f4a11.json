@@ -399,6 +399,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2025-06-02 05:51:54 +0000",
       "cooked_mutton": "2025-06-01 02:23:23 +0000",
       "cooked_beef": "2025-06-01 02:09:50 +0000",
       "baked_potato": "2025-06-01 19:06:32 +0000",
@@ -5724,6 +5725,7 @@
     "criteria": {
       "in_honey_slime_ranch": "2025-06-01 20:33:57 +0000",
       "in_candle_parkour": "2025-06-01 20:41:47 +0000",
+      "in_cell_maze": "2025-06-02 05:48:18 +0000",
       "in_throne_pillar": "2025-06-01 20:52:58 +0000",
       "in_ice_monolith": "2025-06-02 05:34:02 +0000"
     },
@@ -6863,6 +6865,18 @@
     },
     "done": true
   },
+  "the_bumblezone:effects/honey_permission": {
+    "criteria": {
+      "honey_permission": "2025-06-02 05:51:09 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_cell_maze": {
+    "criteria": {
+      "in_cell_maze": "2025-06-02 05:48:18 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:candles/obtain_all_colored_super_candles": {
     "criteria": {
       "super_candle": "2025-06-02 05:37:55 +0000"
@@ -6887,6 +6901,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-02 05:51:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-06-02 05:37:54 +0000"
@@ -6899,9 +6919,39 @@
     },
     "done": true
   },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-06-02 05:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-02 05:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-02 05:51:08 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_wood": {
     "criteria": {
       "has_cherry_wood": "2025-06-02 05:24:56 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/getting_protection": {
+    "criteria": {
+      "getting_protection": "2025-06-02 05:51:08 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/cherry_picker": {
+    "criteria": {
+      "cherry": "2025-06-02 05:44:09 +0000"
     },
     "done": true
   },

@@ -5699,6 +5699,7 @@
     "criteria": {
       "in_honey_slime_ranch": "2025-06-01 20:34:30 +0000",
       "in_candle_parkour": "2025-06-01 20:41:46 +0000",
+      "in_cell_maze": "2025-06-02 05:48:22 +0000",
       "in_throne_pillar": "2025-06-01 20:53:48 +0000"
     },
     "done": false
@@ -5895,9 +5896,21 @@
     },
     "done": true
   },
+  "the_bumblezone:effects/honey_permission": {
+    "criteria": {
+      "honey_permission": "2025-06-02 05:51:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2025-06-02 05:33:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_cell_maze": {
+    "criteria": {
+      "in_cell_maze": "2025-06-02 05:48:22 +0000"
     },
     "done": true
   },
@@ -6021,9 +6034,39 @@
     },
     "done": true
   },
+  "the_bumblezone:tools/obtain_throne_honey_compass": {
+    "criteria": {
+      "obtain_throne_honey_compass": "2025-06-02 05:48:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-02 05:51:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-06-02 05:33:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/food_removed_wrath_of_the_hive": {
+    "criteria": {
+      "food_removed_wrath_of_the_hive": "2025-06-02 05:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-02 05:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-02 05:51:17 +0000"
     },
     "done": true
   },
@@ -6036,6 +6079,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-06-02 05:33:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-06-02 05:45:20 +0000"
     },
     "done": true
   },
@@ -6060,6 +6109,12 @@
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-06-02 05:33:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/getting_protection": {
+    "criteria": {
+      "getting_protection": "2025-06-02 05:51:20 +0000"
     },
     "done": true
   },
