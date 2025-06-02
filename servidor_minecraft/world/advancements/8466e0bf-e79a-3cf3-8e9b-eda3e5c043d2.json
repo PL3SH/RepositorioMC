@@ -4313,15 +4313,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
+  "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
-      "has_gravel": "2025-06-02 00:52:52 +0000"
+      "has_rope": "2025-06-02 00:39:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
-      "has_lapis_lazuli": "2025-06-02 00:54:43 +0000"
+      "has_gravel": "2025-06-02 00:52:52 +0000"
     },
     "done": true
   },
@@ -4331,27 +4331,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-06-02 01:13:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-02 00:52:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2025-06-02 01:14:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-06-02 01:14:58 +0000"
     },
     "done": true
   },
@@ -4364,12 +4346,6 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-02 00:52:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-06-02 01:14:58 +0000"
     },
     "done": true
   },
@@ -4415,12 +4391,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-06-02 00:54:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-02 00:52:52 +0000"
@@ -4430,18 +4400,6 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-02 00:52:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/safety_net": {
-    "criteria": {
-      "has_rope": "2025-06-02 00:39:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2025-06-02 01:14:58 +0000"
     },
     "done": true
   },
@@ -4463,9 +4421,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-02 00:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-02 00:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-02 01:13:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-06-02 01:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-02 01:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-02 01:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-02 01:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-06-02 01:14:58 +0000"
     },
     "done": true
   },

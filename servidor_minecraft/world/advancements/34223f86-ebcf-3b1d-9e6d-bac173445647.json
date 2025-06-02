@@ -4564,11 +4564,11 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_any_ingredient": "2025-06-02 21:42:42 +0000"
+      "glow_berries": "2025-06-02 21:38:05 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
@@ -4576,9 +4576,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_rabbit": "2025-06-02 21:42:42 +0000"
+      "has_bone_meal": "2025-06-02 21:38:29 +0000"
     },
     "done": true
   },
@@ -4588,27 +4588,525 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-02 21:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-06-02 21:42:42 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "glow_berries": "2025-06-02 21:38:05 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-06-02 21:38:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-06-02 21:42:42 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2025-06-02 21:45:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:45:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-02 21:45:50 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-06-02 21:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-02 21:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-02 21:46:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-06-02 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-02 21:47:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
+    "criteria": {
+      "has_birch_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_birch_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-02 21:52:24 +0000"
     },
     "done": true
   },

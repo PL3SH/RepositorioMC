@@ -5964,27 +5964,9 @@
     },
     "done": true
   },
-  "bakery:recipes/sweet_dough": {
-    "criteria": {
-      "has_sugar": "2025-06-02 06:24:54 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/cake_dough": {
-    "criteria": {
-      "has_sugar": "2025-06-02 06:24:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-06-02 06:24:53 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/dough": {
-    "criteria": {
-      "has_sugar": "2025-06-02 06:24:54 +0000"
     },
     "done": true
   },
@@ -6003,6 +5985,24 @@
   "the_bumblezone:honey_crystal/obtain_sticky_honey_residue": {
     "criteria": {
       "obtain_sticky_honey_redstone": "2025-06-02 06:24:53 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-06-02 06:24:54 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-06-02 06:24:54 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-06-02 06:24:54 +0000"
     },
     "done": true
   },

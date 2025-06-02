@@ -73,6 +73,7 @@
       "minecraft:beach": "2025-06-01 03:55:40 +0000",
       "minecraft:stony_peaks": "2025-06-01 02:12:31 +0000",
       "minecraft:mangrove_swamp": "2025-06-01 05:11:25 +0000",
+      "minecraft:sparse_jungle": "2025-06-02 21:49:30 +0000",
       "minecraft:river": "2025-06-01 01:57:42 +0000",
       "minecraft:stony_shore": "2025-06-01 02:16:58 +0000",
       "minecraft:dripstone_caves": "2025-06-01 02:57:00 +0000",
@@ -85,6 +86,7 @@
       "minecraft:ocean": "2025-06-01 04:01:12 +0000",
       "minecraft:jungle": "2025-06-01 18:27:47 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-01 03:41:13 +0000",
+      "minecraft:windswept_savanna": "2025-06-02 21:49:25 +0000",
       "minecraft:warm_ocean": "2025-06-01 19:46:30 +0000",
       "minecraft:flower_forest": "2025-06-01 01:35:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-01 04:20:03 +0000",
@@ -155,6 +157,7 @@
       "coniferous_forest": "2025-06-01 03:28:27 +0000",
       "spider_nest": "2025-06-01 02:56:56 +0000",
       "dryland": "2025-06-01 19:26:07 +0000",
+      "wasteland": "2025-06-02 21:49:20 +0000",
       "lush_desert": "2025-06-01 19:35:55 +0000",
       "redwood_forest": "2025-06-01 04:25:52 +0000",
       "seasonal_orchard": "2025-06-01 22:45:07 +0000",
@@ -3165,6 +3168,7 @@
       "minecraft:skeleton": "2025-06-01 04:04:02 +0000",
       "minecraft:spider": "2025-06-01 02:13:02 +0000",
       "minecraft:creeper": "2025-06-01 21:17:57 +0000",
+      "minecraft:witch": "2025-06-02 21:52:06 +0000",
       "minecraft:husk": "2025-06-01 19:56:00 +0000",
       "minecraft:cave_spider": "2025-06-01 02:57:33 +0000",
       "minecraft:zombie": "2025-06-01 02:51:33 +0000",
@@ -6997,6 +7001,60 @@
       "scroll_forge": "2025-06-02 06:16:24 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-02 21:51:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-02 21:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-02 21:51:19 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-06-02 21:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-06-02 21:53:21 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:get_burnt_by_light": {
+    "criteria": {
+      "get_burnt_by_light_0": "2025-06-02 21:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-02 22:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-06-02 22:04:15 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

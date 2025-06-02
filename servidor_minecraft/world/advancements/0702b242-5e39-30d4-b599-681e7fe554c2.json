@@ -3837,5 +3837,23 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-06-02 21:46:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-06-02 21:49:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-06-02 21:48:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
