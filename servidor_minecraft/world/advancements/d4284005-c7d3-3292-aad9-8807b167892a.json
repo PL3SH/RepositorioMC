@@ -5888,5 +5888,17 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2025-06-02 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-06-02 05:12:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
