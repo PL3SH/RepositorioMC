@@ -5069,6 +5069,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_trapdoor": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 05:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-02 05:07:37 +0000"
@@ -5108,6 +5114,18 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
       "has_glass": "2025-06-02 05:06:05 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_floorboard": {
+    "criteria": {
+      "has_cherry_wood": "2025-06-02 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_pressure_plate": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 05:28:42 +0000"
     },
     "done": true
   },
@@ -5207,6 +5225,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_stairs": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 05:28:42 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_nightstand": {
     "criteria": {
       "has_cherry_nightstand": "2025-06-02 05:07:37 +0000"
@@ -5267,9 +5291,21 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_door": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 05:28:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-06-02 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_wood": {
+    "criteria": {
+      "has_cherry_wood": "2025-06-02 05:25:06 +0000"
     },
     "done": true
   },
@@ -5309,6 +5345,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_button": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 05:28:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-06-02 04:57:02 +0000"
@@ -5318,6 +5360,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-02 05:06:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_slab": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 05:28:42 +0000"
     },
     "done": true
   },
@@ -5387,9 +5435,21 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 05:28:42 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_table": {
     "criteria": {
       "has_cherry_table": "2025-06-02 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-02 05:21:19 +0000"
     },
     "done": true
   },
