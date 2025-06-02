@@ -2725,6 +2725,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-06-02 00:53:25 +0000",
+      "baked_potato": "2025-06-02 01:07:26 +0000",
       "apple": "2025-06-02 00:56:39 +0000",
       "bread": "2025-06-01 22:19:14 +0000"
     },
@@ -3156,15 +3157,57 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 01:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-02 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-02 01:06:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dripstone_pillar_trim": {
     "criteria": {
       "has_dripstone_pillar_trim": "2025-06-02 00:58:43 +0000"
     },
     "done": true
   },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-06-02 01:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-02 01:03:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-06-02 01:05:04 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-06-02 00:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-02 01:03:21 +0000"
     },
     "done": true
   },
@@ -3174,9 +3217,39 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-02 01:06:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-06-02 01:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-02 01:09:42 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dripstone_corner_trim": {
     "criteria": {
       "has_dripstone_corner_trim": "2025-06-02 00:58:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-06-02 01:09:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-02 01:06:19 +0000"
     },
     "done": true
   },
