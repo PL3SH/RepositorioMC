@@ -243,3 +243,23 @@
 [02Jun2025 01:13:19.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> Z
 [02Jun2025 01:13:19.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> Z
 [02Jun2025 01:13:49.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[02Jun2025 01:14:52.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[02Jun2025 01:15:09.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[02Jun2025 01:15:27.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02Jun2025 01:15:54.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Manch lost connection: Disconnected
+[02Jun2025 01:15:54.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manch left the game
+[02Jun2025 01:20:38.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yisus321 was slain by Zombie
+[02Jun2025 01:21:56.625] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1114, y=-18, z=-1920}
+[02Jun2025 01:26:15.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has made the advancement [Cover Me with Diamonds]
+[02Jun2025 01:26:25.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has made the advancement [Sneak 100]
+[02Jun2025 01:27:42.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has made the advancement [Alex's Caves]
+[02Jun2025 01:27:59.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo has made the advancement [It Belongs in a Museum]
+[02Jun2025 01:35:06.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yisus321 lost connection: Disconnected
+[02Jun2025 01:35:06.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yisus321 left the game
+[02Jun2025 01:40:08.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> es´pooooonja
+[02Jun2025 01:40:27.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> DIME
+[02Jun2025 01:41:24.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dogepreo> q pasoooooo
+[02Jun2025 01:47:27.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexaa0310 lost connection: Disconnected
+[02Jun2025 01:47:27.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 left the game
+[02Jun2025 01:50:04.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dogepreo lost connection: Disconnected
+[02Jun2025 01:50:04.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dogepreo left the game

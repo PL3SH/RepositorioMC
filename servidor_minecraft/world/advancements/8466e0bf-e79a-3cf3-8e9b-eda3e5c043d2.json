@@ -105,7 +105,8 @@
       "prairie": "2025-06-01 03:23:50 +0000",
       "snowy_coniferous_forest": "2025-06-01 02:51:08 +0000",
       "snowy_fir_clearing": "2025-06-01 02:52:41 +0000",
-      "glowing_grotto": "2025-06-01 02:55:29 +0000"
+      "glowing_grotto": "2025-06-01 02:55:29 +0000",
+      "snowy_maple_woods": "2025-06-02 01:15:18 +0000"
     },
     "done": false
   },
@@ -4330,9 +4331,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-02 01:13:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-02 00:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-02 01:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-02 01:14:58 +0000"
     },
     "done": true
   },
@@ -4345,6 +4364,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-02 00:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-02 01:14:58 +0000"
     },
     "done": true
   },
@@ -4414,6 +4439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-06-02 01:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-02 00:52:52 +0000"
@@ -4429,6 +4460,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-02 00:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-02 01:13:11 +0000"
     },
     "done": true
   },

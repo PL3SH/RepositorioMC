@@ -59,6 +59,7 @@
       "minecraft:dripstone_caves": "2025-06-02 00:57:19 +0000",
       "minecraft:forest": "2025-06-01 23:02:28 +0000",
       "minecraft:flower_forest": "2025-06-01 21:58:33 +0000",
+      "minecraft:deep_dark": "2025-06-02 01:23:43 +0000",
       "minecraft:meadow": "2025-06-01 22:36:15 +0000",
       "minecraft:plains": "2025-06-01 21:55:06 +0000"
     },
@@ -544,6 +545,8 @@
       "shrubland": "2025-06-01 22:12:49 +0000",
       "rocky_shrubland": "2025-06-01 22:14:08 +0000",
       "highland": "2025-06-01 22:32:10 +0000",
+      "clover_patch": "2025-06-02 01:23:08 +0000",
+      "orchard": "2025-06-02 01:21:33 +0000",
       "lavender_forest": "2025-06-01 22:54:15 +0000",
       "spider_nest": "2025-06-01 22:17:45 +0000",
       "redwood_forest": "2025-06-01 22:32:27 +0000",
@@ -3157,27 +3160,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
-      "has_any_ingredient": "2025-06-02 01:06:19 +0000"
+      "has_mutton": "2025-06-02 00:53:21 +0000"
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
-      "deflected_projectile": "2025-06-02 01:09:35 +0000"
+      "has_cooked_mutton": "2025-06-02 00:53:21 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
+  "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
-      "has_baked_potato": "2025-06-02 01:06:19 +0000"
+      "has_mutton": "2025-06-02 00:53:21 +0000"
     },
     "done": true
   },
   "handcrafted:recipes/misc/dripstone_pillar_trim": {
     "criteria": {
       "has_dripstone_pillar_trim": "2025-06-02 00:58:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-06-02 00:58:43 +0000"
     },
     "done": true
   },
@@ -3193,33 +3202,45 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "potato": "2025-06-02 01:05:04 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-06-02 00:53:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-06-02 01:03:21 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_cooked_mutton": "2025-06-02 00:53:21 +0000"
+      "potato": "2025-06-02 01:05:04 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 01:06:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-02 01:06:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-02 01:06:19 +0000"
     },
     "done": true
   },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-02 01:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-02 01:09:35 +0000"
     },
     "done": true
   },
@@ -3235,27 +3256,153 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dripstone_corner_trim": {
-    "criteria": {
-      "has_dripstone_corner_trim": "2025-06-02 00:58:43 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-06-02 01:09:42 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
-      "has_baked_potato": "2025-06-02 01:06:19 +0000"
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "has_mutton": "2025-06-02 00:53:21 +0000"
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-02 01:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-02 01:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-02 01:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-02 01:21:47 +0000"
     },
     "done": true
   },
