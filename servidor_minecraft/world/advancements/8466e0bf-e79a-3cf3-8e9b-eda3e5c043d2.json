@@ -67,6 +67,8 @@
       "minecraft:grove": "2025-06-01 03:01:47 +0000",
       "minecraft:forest": "2025-06-01 03:51:57 +0000",
       "minecraft:lush_caves": "2025-06-01 02:44:02 +0000",
+      "minecraft:desert": "2025-06-02 22:12:35 +0000",
+      "minecraft:jungle": "2025-06-02 22:26:05 +0000",
       "minecraft:flower_forest": "2025-06-01 01:54:19 +0000",
       "minecraft:deep_dark": "2025-06-01 02:32:09 +0000",
       "minecraft:meadow": "2025-06-01 03:53:13 +0000",
@@ -96,6 +98,7 @@
       "mediterranean_forest": "2025-06-01 03:49:58 +0000",
       "coniferous_forest": "2025-06-01 03:19:52 +0000",
       "spider_nest": "2025-06-01 02:03:22 +0000",
+      "lush_desert": "2025-06-02 22:13:18 +0000",
       "seasonal_orchard": "2025-06-01 03:21:12 +0000",
       "seasonal_forest": "2025-06-01 03:19:54 +0000",
       "auroral_garden": "2025-06-01 02:52:22 +0000",
@@ -1817,7 +1820,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-02 22:19:28 +0000",
       "minecraft:skeleton": "2025-06-01 02:43:55 +0000",
+      "minecraft:vindicator": "2025-06-02 22:20:49 +0000",
       "minecraft:spider": "2025-06-01 02:41:54 +0000",
       "minecraft:creeper": "2025-06-01 02:48:16 +0000",
       "minecraft:cave_spider": "2025-06-01 02:57:39 +0000",
@@ -3247,7 +3252,8 @@
       "golden_carrot": "2025-06-01 04:06:12 +0000",
       "enchanted_golden_apple": "2025-06-01 03:15:39 +0000",
       "cod": "2025-06-01 03:58:51 +0000",
-      "rabbit_stew": "2025-06-01 03:09:25 +0000"
+      "rabbit_stew": "2025-06-01 03:09:25 +0000",
+      "carrot": "2025-06-02 22:33:35 +0000"
     },
     "done": false
   },
@@ -4466,6 +4472,66 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-06-02 01:14:58 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-06-02 22:31:23 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-06-02 22:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-02 22:20:49 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:get_burnt_by_light": {
+    "criteria": {
+      "get_burnt_by_light_0": "2025-06-02 22:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-02 22:25:57 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/stinger_spear_poisoning": {
+    "criteria": {
+      "stinger_spear_poisoning": "2025-06-02 22:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-02 22:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-02 22:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-02 22:19:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-06-02 22:38:01 +0000"
     },
     "done": true
   },
