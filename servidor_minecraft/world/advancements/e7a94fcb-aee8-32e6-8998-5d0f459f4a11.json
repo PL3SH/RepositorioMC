@@ -6195,6 +6195,12 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/fox_black": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-02 00:30:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-06-02 00:30:01 +0000"
@@ -6204,6 +6210,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
     "criteria": {
       "has_black_dye": "2025-06-02 00:30:01 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_diamond": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-02 00:30:11 +0000"
     },
     "done": true
   },
@@ -6228,6 +6240,12 @@
   "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-06-02 00:30:01 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_golden": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-02 00:30:11 +0000"
     },
     "done": true
   },
@@ -6273,9 +6291,21 @@
     },
     "done": true
   },
+  "slashblade:abilities/trick_dodge": {
+    "criteria": {
+      "customtrigger": "2025-06-02 00:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-02 00:30:01 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/katana": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-02 00:30:11 +0000"
     },
     "done": true
   },
@@ -6315,6 +6345,12 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/rodai_wooden": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-02 00:30:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2025-06-02 00:30:01 +0000"
@@ -6345,9 +6381,21 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/rodai_iron": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-02 00:30:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-02 00:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-02 00:31:39 +0000"
     },
     "done": true
   },
@@ -6375,6 +6423,12 @@
     },
     "done": true
   },
+  "slashblade_addon:recipes/combat/tachi": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-02 00:30:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-06-02 00:30:01 +0000"
@@ -6384,6 +6438,24 @@
   "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-02 00:30:01 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_stone": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-02 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/ruby": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-02 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_silverbamboo": {
+    "criteria": {
+      "crafting": "2025-06-02 00:30:11 +0000"
     },
     "done": true
   },
@@ -6489,9 +6561,21 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/rodai_netherite": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-02 00:30:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/dark_lightswitch": {
     "criteria": {
       "has_dye": "2025-06-02 00:30:01 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/fox_white": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-02 00:30:11 +0000"
     },
     "done": true
   },
@@ -6534,6 +6618,12 @@
   "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-02 00:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-02 00:31:39 +0000"
     },
     "done": true
   },
