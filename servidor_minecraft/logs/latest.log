@@ -735,3 +735,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [03Jun2025 16:27:12.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported alexaa0310 to Tomate_Lover]
 [03Jun2025 16:28:15.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported alexaa0310 to Tomate_Lover]
 [03Jun2025 16:28:19.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set own game mode to Survival Mode]
+[03Jun2025 16:32:48.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomate_Lover lost connection: Disconnected
+[03Jun2025 16:32:48.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover left the game

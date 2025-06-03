@@ -4293,3 +4293,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [03Jun2025 16:27:12.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported alexaa0310 to Tomate_Lover]
 [03Jun2025 16:28:15.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported alexaa0310 to Tomate_Lover]
 [03Jun2025 16:28:19.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set own game mode to Survival Mode]
+[03Jun2025 16:29:12.433] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[03Jun2025 16:29:12.434] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[03Jun2025 16:29:12.439] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[03Jun2025 16:30:18.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 16:30:18.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 16:32:38.362] [Worker-Main-22/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[03Jun2025 16:32:48.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomate_Lover lost connection: Disconnected
+[03Jun2025 16:32:48.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover left the game
+[03Jun2025 16:35:18.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 16:35:18.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 16:40:18.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 16:40:18.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 16:45:18.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 16:45:18.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
