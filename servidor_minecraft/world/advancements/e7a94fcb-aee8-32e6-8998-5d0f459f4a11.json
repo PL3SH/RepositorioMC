@@ -3174,6 +3174,7 @@
       "minecraft:pillager": "2025-06-01 19:10:26 +0000",
       "minecraft:skeleton": "2025-06-01 04:04:02 +0000",
       "minecraft:ravager": "2025-06-03 02:29:27 +0000",
+      "minecraft:guardian": "2025-06-03 02:51:49 +0000",
       "minecraft:spider": "2025-06-01 02:13:02 +0000",
       "minecraft:creeper": "2025-06-01 21:17:57 +0000",
       "minecraft:evoker": "2025-06-03 02:29:44 +0000",
@@ -7187,9 +7188,69 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+  "vinery:recipes/dark_cherry_trapdoor": {
     "criteria": {
-      "has_boat": "2025-06-03 02:35:30 +0000"
+      "has_cherry_planks": "2025-06-03 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_floorboard": {
+    "criteria": {
+      "has_cherry_wood": "2025-06-03 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_pressure_plate": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-03 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_stairs": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-03 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_door": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-03 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_button": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-03 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_slab": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-03 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-06-03 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/rapid_slash": {
+    "criteria": {
+      "customtrigger": "2025-06-03 02:19:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/rising_star": {
+    "criteria": {
+      "customtrigger": "2025-06-03 02:27:21 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_cleave": {
+    "criteria": {
+      "customtrigger": "2025-06-03 02:28:50 +0000"
     },
     "done": true
   },
@@ -7199,9 +7260,63 @@
     },
     "done": true
   },
-  "slashblade:arts/rapid_slash": {
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
-      "customtrigger": "2025-06-03 02:19:54 +0000"
+      "has_stone_bricks": "2025-06-03 02:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 02:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 02:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 02:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 02:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-06-03 02:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 02:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 02:30:03 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/upperslash": {
+    "criteria": {
+      "customtrigger": "2025-06-03 02:32:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-03 02:35:30 +0000"
     },
     "done": true
   },
@@ -7241,57 +7356,15 @@
     },
     "done": true
   },
-  "slashblade:arts/upperslash": {
-    "criteria": {
-      "customtrigger": "2025-06-03 02:32:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-06-03 02:35:30 +0000"
     },
     "done": true
   },
-  "vinery:recipes/dark_cherry_trapdoor": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-03 02:12:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-03 02:30:03 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:35:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-06-03 02:45:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-03 02:30:03 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_cherry_floorboard": {
-    "criteria": {
-      "has_cherry_wood": "2025-06-03 02:12:42 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_cherry_pressure_plate": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-03 02:12:42 +0000"
     },
     "done": true
   },
@@ -7307,36 +7380,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-03 02:30:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-03 02:30:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-03 02:30:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-06-03 02:30:03 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_cherry_stairs": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-03 02:12:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:35:30 +0000"
@@ -7346,12 +7389,6 @@
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:35:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-03 02:45:16 +0000"
     },
     "done": true
   },
@@ -7373,33 +7410,9 @@
     },
     "done": true
   },
-  "slashblade:arts/rising_star": {
-    "criteria": {
-      "customtrigger": "2025-06-03 02:27:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-03 02:30:03 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:35:30 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_cherry_door": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-03 02:12:42 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/aerial_cleave": {
-    "criteria": {
-      "customtrigger": "2025-06-03 02:28:50 +0000"
     },
     "done": true
   },
@@ -7409,33 +7422,27 @@
     },
     "done": true
   },
-  "vinery:recipes/dark_cherry_button": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-03 02:12:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-03 02:30:03 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_cherry_slab": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-03 02:12:42 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 02:35:30 +0000"
     },
     "done": true
   },
-  "vinery:recipes/dark_cherry_planks": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
-      "has_the_recipe": "2025-06-03 02:12:42 +0000"
+      "has_coast_armor_trim_smithing_template": "2025-06-03 02:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-03 02:45:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-06-03 02:50:26 +0000"
     },
     "done": true
   },
