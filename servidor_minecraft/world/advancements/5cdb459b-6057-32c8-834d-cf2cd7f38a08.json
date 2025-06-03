@@ -6625,5 +6625,11 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-06-03 16:47:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
