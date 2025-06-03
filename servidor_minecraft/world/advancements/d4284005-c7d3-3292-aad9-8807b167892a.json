@@ -6649,15 +6649,70 @@
     },
     "done": true
   },
-  "slashblade:abilities/guard": {
+  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
     "criteria": {
-      "customtrigger": "2025-06-03 02:21:08 +0000"
+      "carve_wax_2": "2025-06-03 01:52:55 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-06-03 01:53:05 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-06-03 01:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 01:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 01:58:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-03 01:58:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 01:58:37 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade": {
+    "criteria": {
+      "has_slashblade_white": "2025-06-03 02:18:22 +0000",
+      "has_the_recipe": "2025-06-03 02:18:22 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/tboen": {
+    "criteria": {
+      "has_slashblade_white": "2025-06-03 02:18:22 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_white": {
+    "criteria": {
+      "crafting": "2025-06-03 02:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-03 02:19:07 +0000"
     },
     "done": true
   },
@@ -6670,19 +6725,6 @@
   "refurbished_furniture:recipes/decorations/blue_toilet": {
     "criteria": {
       "has_dye": "2025-06-03 02:19:40 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/slashblade": {
-    "criteria": {
-      "has_slashblade_white": "2025-06-03 02:18:22 +0000",
-      "has_the_recipe": "2025-06-03 02:18:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-06-03 02:19:07 +0000"
     },
     "done": true
   },
@@ -6722,12 +6764,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-06-03 01:58:37 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/blue_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-03 02:19:40 +0000"
@@ -6761,12 +6797,6 @@
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-03 02:19:40 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/tboen": {
-    "criteria": {
-      "has_slashblade_white": "2025-06-03 02:18:22 +0000"
     },
     "done": true
   },
@@ -6818,30 +6848,6 @@
     },
     "done": true
   },
-  "slashblade:blade/s_white": {
-    "criteria": {
-      "crafting": "2025-06-03 02:18:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-06-03 01:58:37 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
-    "criteria": {
-      "bee_hit_wrath_of_the_hive": "2025-06-03 01:53:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-03 01:58:37 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/blue_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-03 02:19:40 +0000"
@@ -6853,12 +6859,6 @@
       "has_blue_dye": "2025-06-03 02:19:40 +0000"
     },
     "done": true
-  },
-  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
-    "criteria": {
-      "carve_wax_2": "2025-06-03 01:52:55 +0000"
-    },
-    "done": false
   },
   "refurbished_furniture:recipes/decorations/blue_stool_from_dyeing": {
     "criteria": {
@@ -6875,18 +6875,6 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-03 02:19:40 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/quick_charge": {
-    "criteria": {
-      "customtrigger": "2025-06-03 02:32:26 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2025-06-03 01:58:37 +0000"
     },
     "done": true
   },
@@ -6917,6 +6905,18 @@
   "refurbished_furniture:recipes/decorations/blue_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-03 02:19:40 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/guard": {
+    "criteria": {
+      "customtrigger": "2025-06-03 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/quick_charge": {
+    "criteria": {
+      "customtrigger": "2025-06-03 02:32:26 +0000"
     },
     "done": true
   },

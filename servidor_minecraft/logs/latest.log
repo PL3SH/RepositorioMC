@@ -712,3 +712,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [03Jun2025 16:10:08.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.427s)! For help, type "help"
 [03Jun2025 16:10:08.489] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [03Jun2025 16:10:11.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[03Jun2025 16:20:32.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexaa0310[/127.203.229.235:38575] logged in with entity id 478 at (-865.3137475322114, 56.0, -307.0919410687006)
+[03Jun2025 16:20:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 joined the game
+[03Jun2025 16:20:37.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5449ms or 108 ticks behind
+[03Jun2025 16:20:39.255] [Worker-Main-24/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-829, y=-2, z=-289}
+[03Jun2025 16:20:39.281] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-830, y=-2, z=-286}
+[03Jun2025 16:20:47.973] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-764, y=-48, z=-306}
+[03Jun2025 16:20:47.975] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-765, y=-48, z=-306}
+[03Jun2025 16:21:04.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexaa0310 was killed by Guardian using magic
+[03Jun2025 16:21:59.329] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-169, y=-20, z=33}
+[03Jun2025 16:21:59.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[03Jun2025 16:24:47.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomate_Lover[/127.214.98.41:47389] logged in with entity id 1403 at (1182.9332062317278, 65.0, -1247.0955216746625)
+[03Jun2025 16:24:47.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover joined the game
+[03Jun2025 16:24:51.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> ola
+[03Jun2025 16:24:53.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexaa0310> toy tiste
+[03Jun2025 16:25:08.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate_Lover> avr
+[03Jun2025 16:25:17.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate_Lover> pase las coordenadas de donde se murío
+[03Jun2025 16:26:28.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set own game mode to Spectator Mode]
+[03Jun2025 16:26:39.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate_Lover> avr
+[03Jun2025 16:26:40.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomate_Lover> pasalas
+[03Jun2025 16:27:04.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported Tomate_Lover to -863.500000, 62.000000, -308.500000]
+[03Jun2025 16:27:12.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported alexaa0310 to Tomate_Lover]
+[03Jun2025 16:28:15.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Teleported alexaa0310 to Tomate_Lover]
+[03Jun2025 16:28:19.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set own game mode to Survival Mode]
