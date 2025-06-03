@@ -37,6 +37,9 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "crystal_canyon": "2025-06-03 01:52:48 +0000",
+      "sugar_water_floor": "2025-06-03 01:53:00 +0000",
+      "hive_wall": "2025-06-03 01:56:16 +0000",
       "bumbling_beepartments": "2025-06-01 01:54:14 +0000"
     },
     "done": false
@@ -56,13 +59,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-06-01 03:06:22 +0000",
+      "minecraft:deep_ocean": "2025-06-03 02:45:35 +0000",
       "minecraft:birch_forest": "2025-06-02 00:32:00 +0000",
       "minecraft:beach": "2025-06-01 02:33:41 +0000",
       "minecraft:river": "2025-06-01 02:15:53 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-03 02:35:57 +0000",
       "minecraft:stony_shore": "2025-06-02 01:35:44 +0000",
       "minecraft:forest": "2025-06-01 03:04:56 +0000",
       "minecraft:desert": "2025-06-02 22:18:12 +0000",
       "minecraft:jungle": "2025-06-02 22:25:59 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-03 02:44:05 +0000",
       "minecraft:flower_forest": "2025-06-01 02:05:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-02 00:30:57 +0000",
       "minecraft:meadow": "2025-06-01 01:58:06 +0000",
@@ -255,6 +261,7 @@
       "cooked_mutton": "2025-06-01 02:48:00 +0000",
       "sweet_berries": "2025-06-01 02:56:18 +0000",
       "cooked_beef": "2025-06-01 02:08:23 +0000",
+      "baked_potato": "2025-06-03 01:50:55 +0000",
       "apple": "2025-06-02 05:48:50 +0000",
       "potato": "2025-06-01 03:14:32 +0000",
       "bread": "2025-06-01 02:00:40 +0000",
@@ -1981,6 +1988,7 @@
       "minecraft:spider": "2025-06-01 03:04:12 +0000",
       "minecraft:creeper": "2025-06-01 23:42:43 +0000",
       "minecraft:husk": "2025-06-02 22:25:09 +0000",
+      "minecraft:vex": "2025-06-03 02:29:23 +0000",
       "minecraft:zombie": "2025-06-01 02:59:12 +0000"
     },
     "done": false
@@ -6101,6 +6109,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-06-02 23:57:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-03 00:06:32 +0000"
@@ -6113,9 +6127,495 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
+  "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
-      "cave_tablet": "2025-06-02 23:57:53 +0000"
+      "has_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_table": {
+    "criteria": {
+      "has_acacia_table": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/fox_black": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-03 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 01:58:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-03 01:41:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_ice_monolith": "2025-06-03 01:54:18 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/acacia_shelf": {
+    "criteria": {
+      "has_acacia_shelf": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_diamond": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-03 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 02:30:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/acacia_wine_rack_small": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_golden": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-03 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_cupboard": {
+    "criteria": {
+      "has_acacia_cupboard": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_chair": {
+    "criteria": {
+      "has_acacia_chair": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_desk": {
+    "criteria": {
+      "has_acacia_desk": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-06-03 02:40:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/katana": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-03 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_fancy_bed": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-06-03 02:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 01:58:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_dining_bench": {
+    "criteria": {
+      "has_acacia_dining_bench": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_corner_trim": {
+    "criteria": {
+      "has_acacia_corner_trim": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-03 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-03 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_wooden": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-03 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-06-03 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 02:30:17 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_iron": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-03 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 02:30:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "red_jungle_grape_seeds": "2025-06-03 02:39:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_couch": {
+    "criteria": {
+      "has_acacia_couch": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-06-03 02:28:51 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/tachi": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-03 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_pillar_trim": {
+    "criteria": {
+      "has_acacia_pillar_trim": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_stone": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-03 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/ruby": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-03 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_silverbamboo": {
+    "criteria": {
+      "crafting": "2025-06-03 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_bench": {
+    "criteria": {
+      "has_acacia_bench": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-06-03 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2025-06-03 02:20:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-03 02:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 02:30:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/acacia_wine_rack_big": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-06-03 02:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 02:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 02:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_drawer": {
+    "criteria": {
+      "has_acacia_drawer": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-03 02:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-06-03 02:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 01:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-03 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2025-06-03 02:30:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_side_table": {
+    "criteria": {
+      "has_acacia_side_table": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-03 01:58:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_nightstand": {
+    "criteria": {
+      "has_acacia_nightstand": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-06-03 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-06-03 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-03 02:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 02:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_counter": {
+    "criteria": {
+      "has_acacia_counter": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_netherite": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-03 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 02:30:17 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/fox_white": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-06-03 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-03 02:42:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-06-03 01:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-03 01:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-03 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-03 01:56:38 +0000"
     },
     "done": true
   },

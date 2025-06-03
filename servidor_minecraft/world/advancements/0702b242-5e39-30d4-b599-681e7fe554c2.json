@@ -3909,6 +3909,36 @@
     },
     "done": true
   },
+  "vinery:recipes/flower_box": {
+    "criteria": {
+      "has_podzol": "2025-06-03 00:39:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-06-03 00:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-03 00:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-03 00:48:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_cobblestone_from_willow_vine": {
+    "criteria": {
+      "has_vine": "2025-06-03 00:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-06-03 00:55:12 +0000"
@@ -3945,51 +3975,9 @@
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/snow_crow": {
-    "criteria": {
-      "has_slashblade": "2025-06-03 00:58:23 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/yuzukitukumo": {
-    "criteria": {
-      "has_slashblade": "2025-06-03 00:58:23 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mossy_cobblestone_from_willow_vine": {
-    "criteria": {
-      "has_vine": "2025-06-03 00:54:16 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/muramasa": {
-    "criteria": {
-      "has_slashblade": "2025-06-03 00:58:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-06-03 00:55:12 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/nihilul": {
-    "criteria": {
-      "has_slashblade": "2025-06-03 00:58:23 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/frosty_cherry": {
-    "criteria": {
-      "has_slashblade": "2025-06-03 00:58:23 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-06-03 00:48:42 +0000"
     },
     "done": true
   },
@@ -3999,21 +3987,9 @@
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/nihilex": {
-    "criteria": {
-      "has_slashblade": "2025-06-03 00:58:23 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/quartz_pillar_trim": {
     "criteria": {
       "has_quartz_pillar_trim": "2025-06-03 00:55:12 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/nihilbx": {
-    "criteria": {
-      "has_slashblade": "2025-06-03 00:58:23 +0000"
     },
     "done": true
   },
@@ -4035,45 +4011,9 @@
     },
     "done": true
   },
-  "vinery:recipes/flower_box": {
-    "criteria": {
-      "has_podzol": "2025-06-03 00:39:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-06-03 00:55:39 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/laemmle": {
-    "criteria": {
-      "has_slashblade": "2025-06-03 00:58:23 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/moonlight_cherry": {
-    "criteria": {
-      "has_slashblade": "2025-06-03 00:58:23 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/plate": {
     "criteria": {
       "has_quartz_block": "2025-06-03 00:55:12 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/nihil": {
-    "criteria": {
-      "has_slashblade": "2025-06-03 00:58:23 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/green_mist": {
-    "criteria": {
-      "has_slashblade": "2025-06-03 00:58:23 +0000"
     },
     "done": true
   },
@@ -4086,12 +4026,6 @@
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-03 00:55:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-06-03 00:48:42 +0000"
     },
     "done": true
   },
@@ -4113,51 +4047,9 @@
     },
     "done": true
   },
-  "slashblade:arts/aerial_b": {
-    "criteria": {
-      "customtrigger": "2025-06-03 00:58:36 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/aerial_a": {
-    "criteria": {
-      "customtrigger": "2025-06-03 00:58:38 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:decor/obtain_all_string_curtains": {
-    "criteria": {
-      "cyan_string_curtain": "2025-06-03 00:55:54 +0000"
-    },
-    "done": false
-  },
-  "slashblade_addon:recipes/combat/aquablaze": {
-    "criteria": {
-      "has_slashblade": "2025-06-03 00:58:23 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/crimsoncherry": {
-    "criteria": {
-      "has_slashblade": "2025-06-03 00:58:23 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_quartz_block": "2025-06-03 00:55:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-06-03 00:48:42 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/yukari": {
-    "criteria": {
-      "has_slashblade": "2025-06-03 00:58:23 +0000"
     },
     "done": true
   },
@@ -4185,9 +4077,117 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-03 00:55:39 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:decor/obtain_all_string_curtains": {
+    "criteria": {
+      "cyan_string_curtain": "2025-06-03 00:55:54 +0000"
+    },
+    "done": false
+  },
+  "slashblade_addon:recipes/combat/snow_crow": {
+    "criteria": {
+      "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/yuzukitukumo": {
+    "criteria": {
+      "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/muramasa": {
+    "criteria": {
+      "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihilul": {
+    "criteria": {
+      "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/frosty_cherry": {
+    "criteria": {
+      "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihilex": {
+    "criteria": {
+      "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihilbx": {
+    "criteria": {
+      "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/laemmle": {
+    "criteria": {
+      "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/moonlight_cherry": {
+    "criteria": {
+      "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihil": {
+    "criteria": {
+      "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/green_mist": {
+    "criteria": {
+      "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/aquablaze": {
+    "criteria": {
+      "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/crimsoncherry": {
+    "criteria": {
+      "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/yukari": {
+    "criteria": {
+      "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/frost_wolf": {
     "criteria": {
       "has_slashblade": "2025-06-03 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-06-03 00:58:36 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-06-03 00:58:38 +0000"
     },
     "done": true
   },
