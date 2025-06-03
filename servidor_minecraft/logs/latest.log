@@ -737,3 +737,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [03Jun2025 16:28:19.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomate_Lover: Set own game mode to Survival Mode]
 [03Jun2025 16:32:48.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomate_Lover lost connection: Disconnected
 [03Jun2025 16:32:48.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomate_Lover left the game
+[03Jun2025 17:01:42.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2345, l='ServerLevel[world]', x=1296.47, y=64.00, z=-1263.89] died, message: 'Villager was led to the grave by Priest'
