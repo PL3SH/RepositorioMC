@@ -76,6 +76,7 @@
       "minecraft:sparse_jungle": "2025-06-02 21:49:30 +0000",
       "minecraft:river": "2025-06-01 01:57:42 +0000",
       "minecraft:stony_shore": "2025-06-01 02:16:58 +0000",
+      "minecraft:snowy_plains": "2025-06-03 00:29:47 +0000",
       "minecraft:dripstone_caves": "2025-06-01 02:57:00 +0000",
       "minecraft:grove": "2025-06-01 03:11:12 +0000",
       "minecraft:jagged_peaks": "2025-06-01 02:54:33 +0000",
@@ -7122,6 +7123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 23:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-02 23:31:23 +0000"
@@ -7134,9 +7141,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "has_the_recipe": "2025-06-02 23:22:07 +0000"
+      "cave_codex": "2025-06-02 23:47:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-06-03 00:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-03 00:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-03 00:20:09 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-06-03 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-06-03 00:53:01 +0000"
     },
     "done": true
   },
